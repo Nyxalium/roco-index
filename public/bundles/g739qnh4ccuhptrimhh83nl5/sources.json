@@ -1,0 +1,115 @@
+{
+  "familyId": "g739qnh4ccuhptrimhh83nl5",
+  "familyTitle": "Miala Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_17eabe50_Miala Evolution Line.zip",
+  "zipBytes": 574333,
+  "zipSha256": "ca410639ae3d495e647cf09c3d6ff42626dbaa83c1db21bf66441af22b36eb10",
+  "coverId": "f355d49ebeec5c93",
+  "files": [
+    {
+      "id": "f355d49ebeec5c93",
+      "filename": "Miala Artwork.png",
+      "label": "Miala",
+      "kind": "artwork",
+      "url": "/bundles/g739qnh4ccuhptrimhh83nl5/f355d49ebeec5c93.webp",
+      "thumbnail": "/bundles/g739qnh4ccuhptrimhh83nl5/f355d49ebeec5c93-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "d7fe7e2e183d6b44",
+      "filename": "Miala Icon.png",
+      "label": "Miala",
+      "kind": "icon",
+      "url": "/bundles/g739qnh4ccuhptrimhh83nl5/d7fe7e2e183d6b44.webp",
+      "thumbnail": "/bundles/g739qnh4ccuhptrimhh83nl5/d7fe7e2e183d6b44-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "3c89231e70a94585",
+      "filename": "Miala Jini Egg.png",
+      "label": "Miala",
+      "kind": "egg",
+      "url": "/bundles/g739qnh4ccuhptrimhh83nl5/3c89231e70a94585.webp",
+      "thumbnail": "/bundles/g739qnh4ccuhptrimhh83nl5/3c89231e70a94585-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "fcb5bef7eaae8db0",
+      "filename": "Miala Jini Fruit.png",
+      "label": "Miala",
+      "kind": "fruit",
+      "url": "/bundles/g739qnh4ccuhptrimhh83nl5/fcb5bef7eaae8db0.webp",
+      "thumbnail": "/bundles/g739qnh4ccuhptrimhh83nl5/fcb5bef7eaae8db0-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Miala Artwork.png",
+      "bytes": 451076,
+      "crc32": "a5c9373f",
+      "mode": 33206,
+      "id": "f355d49ebeec5c93",
+      "sourceSha256": "2b6509023328a831329d39c713f8ec9fbfdce6c71d08223d4b56c45d18c9c2c6",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "9dae42b85fa58ba6debaf617a1f64aa91ac0d833eb1aa8f95618f5b227aebe9d",
+      "thumbnailSha256": "dd71c5bff1e7017ee355380fd9a74fa13a2e70c6f830bc7b584f6cfaae1c5034",
+      "previewBytes": 63708,
+      "thumbnailBytes": 6532
+    },
+    {
+      "member": "Miala Icon.png",
+      "bytes": 35499,
+      "crc32": "029ea1b8",
+      "mode": 33206,
+      "id": "d7fe7e2e183d6b44",
+      "sourceSha256": "5834194b0f17630bf2ac0658fbac12d7e6b6143547921ccf8fcc2aac4773c3fc",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "fa7c2bff8aac5845e20848a91014ca2ee663ae82c41aa25a2c9212ab49836fcb",
+      "thumbnailSha256": "b7f08387ca555e47e4f91624add2b543c69eb7e59fdaa8777436950e06e50e98",
+      "previewBytes": 9146,
+      "thumbnailBytes": 5918
+    },
+    {
+      "member": "Miala Jini Egg.png",
+      "bytes": 39537,
+      "crc32": "8c96621d",
+      "mode": 33206,
+      "id": "3c89231e70a94585",
+      "sourceSha256": "7c0f80bbaf921cb9d4890815df80c691f0eef11131bcc2eb2a924c34542681ed",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "56626b4b2138bef18bc831fdb86827d17a7776fc2ea5356bc1c94b81b0ef7ef1",
+      "thumbnailSha256": "f0f251f89772e6c0be54e3890f37d37bc04028154ca78913e23745e3a141695f",
+      "previewBytes": 8028,
+      "thumbnailBytes": 4530
+    },
+    {
+      "member": "Miala Jini Fruit.png",
+      "bytes": 53831,
+      "crc32": "a144500b",
+      "mode": 33206,
+      "id": "fcb5bef7eaae8db0",
+      "sourceSha256": "badb9c227b3b3a6bc8b61b4ba613c9cc0ed43eb47b56bb9654b00bdb2dd66c52",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "903e06dad8bf680d8563976384b2cb4c06a2e0b3d40b80b83f380b03ce1a5eb5",
+      "thumbnailSha256": "e75584a94342bacc57e022be67dcecaf7e829ec2b237899be3c152589f1c12af",
+      "previewBytes": 10856,
+      "thumbnailBytes": 5774
+    }
+  ],
+  "skipped": []
+}

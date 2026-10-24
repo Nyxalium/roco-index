@@ -1,0 +1,41 @@
+{
+  "expectedImages": 144,
+  "preparedImages": 144,
+  "artworkCount": 137,
+  "wallpaperCount": 2,
+  "newsCount": 5,
+  "dimensions": {
+    "1080x1920": 1,
+    "1920x1073": 1,
+    "284x284": 4,
+    "768x768": 137,
+    "900x506": 1
+  },
+  "fonts": [
+    {
+      "family": "Bricolage Grotesque",
+      "file": "/fonts/display.woff2",
+      "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5BeSl9D4dj_x9PpZBMlGIInE.woff2",
+      "subset": "latin",
+      "weight": "200 800",
+      "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+      "license": "/fonts/bricolagegrotesque-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/bricolagegrotesque/OFL.txt",
+      "sizeBytes": 76888
+    },
+    {
+      "family": "DM Sans",
+      "file": "/fonts/body.woff2",
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Hp2ywxg089UriCZOIHQ.woff2",
+      "subset": "latin",
+      "weight": "100 1000",
+      "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+      "license": "/fonts/dmsans-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt",
+      "sizeBytes": 62724
+    }
+  ],
+  "assetSizeBytes": 7435449,
+  "failures": [],
+  "downloadDiagnostics": []
+}

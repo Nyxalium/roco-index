@@ -1,0 +1,115 @@
+{
+  "familyId": "iwl5x37k1zi0e5akq9n5p7q1",
+  "familyTitle": "Sceptra-II Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_f8fb74af_Sceptra-II Evolution Line.zip",
+  "zipBytes": 626448,
+  "zipSha256": "2b6779a697d10bfd831020ce06759c855338c657ce9ff98908624f28b526efb6",
+  "coverId": "4ded65d3545499dc",
+  "files": [
+    {
+      "id": "4ded65d3545499dc",
+      "filename": "Sceptra-II Artwork.png",
+      "label": "Sceptra-II",
+      "kind": "artwork",
+      "url": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/4ded65d3545499dc.webp",
+      "thumbnail": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/4ded65d3545499dc-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "9c9376e692fc8049",
+      "filename": "Sceptra-II Icon.png",
+      "label": "Sceptra-II",
+      "kind": "icon",
+      "url": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/9c9376e692fc8049.webp",
+      "thumbnail": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/9c9376e692fc8049-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "5e40f499c0948912",
+      "filename": "Sceptra-II Jini Egg.png",
+      "label": "Sceptra-II",
+      "kind": "egg",
+      "url": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/5e40f499c0948912.webp",
+      "thumbnail": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/5e40f499c0948912-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "b5ebf8e8e57ac82d",
+      "filename": "Sceptra-II Jini Fruit.png",
+      "label": "Sceptra-II",
+      "kind": "fruit",
+      "url": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/b5ebf8e8e57ac82d.webp",
+      "thumbnail": "/bundles/iwl5x37k1zi0e5akq9n5p7q1/b5ebf8e8e57ac82d-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Sceptra-II Artwork.png",
+      "bytes": 496014,
+      "crc32": "575e8d7e",
+      "mode": 33206,
+      "id": "4ded65d3545499dc",
+      "sourceSha256": "57501c08e46304c0988e496b44af5692c444434192b43fa80fbda418c1cb5c47",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "f0eb4d13d86e85b9ea50d0017f599c84892cd9bdb800d2f784f2fcd9b3da3b22",
+      "thumbnailSha256": "31b5ea79ed12274560e9f30eb725f28af6092c9af1e7670432f412ef421240cd",
+      "previewBytes": 72582,
+      "thumbnailBytes": 7678
+    },
+    {
+      "member": "Sceptra-II Icon.png",
+      "bytes": 25068,
+      "crc32": "2fa428cf",
+      "mode": 33206,
+      "id": "9c9376e692fc8049",
+      "sourceSha256": "a0dfded154154949fd161608e769284098baebb6ef81b93a82422643c8a4947d",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "6b2aa29fb6b21b961dab22e75041febfcf1e30bf5f2882ac0ab73ed7b7a5f56d",
+      "thumbnailSha256": "f6710e41ac780f7e1613e16425396433741ab5d5759b24c5e59be72af2b112ea",
+      "previewBytes": 6642,
+      "thumbnailBytes": 4766
+    },
+    {
+      "member": "Sceptra-II Jini Egg.png",
+      "bytes": 50099,
+      "crc32": "87879145",
+      "mode": 33206,
+      "id": "5e40f499c0948912",
+      "sourceSha256": "74b5bee18b0b00fcdf00431a15b9fe6cdab17e85ae4715f357896aebbcf95a07",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "7c1857ea8cada758abb452ed644ebac02d53e63275665728426c0b253d281e02",
+      "thumbnailSha256": "9a0e55ed1c4e18748500d67f95354c07a474e0503cc737032e4bef7c680adcfb",
+      "previewBytes": 10352,
+      "thumbnailBytes": 5302
+    },
+    {
+      "member": "Sceptra-II Jini Fruit.png",
+      "bytes": 59946,
+      "crc32": "c4842995",
+      "mode": 33206,
+      "id": "b5ebf8e8e57ac82d",
+      "sourceSha256": "8de19e2d61108c3affbece67008f2bdedcbb0510e2bf7c9ccc3a9954c72d4084",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "2a33c10bc99f131b9ad4408715484f937860ab89e84954749e9606aa0efd1777",
+      "thumbnailSha256": "517d9708278f1fade0c5c6c50b93f6d19706bd4ea3bf7697fe308e754bee563e",
+      "previewBytes": 12358,
+      "thumbnailBytes": 6306
+    }
+  ],
+  "skipped": []
+}

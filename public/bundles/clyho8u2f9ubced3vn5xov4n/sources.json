@@ -1,0 +1,115 @@
+{
+  "familyId": "clyho8u2f9ubced3vn5xov4n",
+  "familyTitle": "Huacademy Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_8961ecd7_Huacademy Evolution Line.zip",
+  "zipBytes": 1591176,
+  "zipSha256": "62fb3029eb38245e6300c38a3f71e92af7db1b5b27d4c3aefee36a1e785abdef",
+  "coverId": "171b99fd0c246ab6",
+  "files": [
+    {
+      "id": "171b99fd0c246ab6",
+      "filename": "Huacademy Artwork.png",
+      "label": "Huacademy",
+      "kind": "artwork",
+      "url": "/bundles/clyho8u2f9ubced3vn5xov4n/171b99fd0c246ab6.webp",
+      "thumbnail": "/bundles/clyho8u2f9ubced3vn5xov4n/171b99fd0c246ab6-thumb.webp",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": "73395f9e1fa8f2e9",
+      "filename": "Huacademy Icon.png",
+      "label": "Huacademy",
+      "kind": "icon",
+      "url": "/bundles/clyho8u2f9ubced3vn5xov4n/73395f9e1fa8f2e9.webp",
+      "thumbnail": "/bundles/clyho8u2f9ubced3vn5xov4n/73395f9e1fa8f2e9-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "68278e83881be9ed",
+      "filename": "Huacademy Jini Egg.png",
+      "label": "Huacademy",
+      "kind": "egg",
+      "url": "/bundles/clyho8u2f9ubced3vn5xov4n/68278e83881be9ed.webp",
+      "thumbnail": "/bundles/clyho8u2f9ubced3vn5xov4n/68278e83881be9ed-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "f7b1116e5fbdd244",
+      "filename": "Huacademy Jini Fruit.png",
+      "label": "Huacademy",
+      "kind": "fruit",
+      "url": "/bundles/clyho8u2f9ubced3vn5xov4n/f7b1116e5fbdd244.webp",
+      "thumbnail": "/bundles/clyho8u2f9ubced3vn5xov4n/f7b1116e5fbdd244-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Huacademy Artwork.png",
+      "bytes": 1485045,
+      "crc32": "1bae0a3c",
+      "mode": 33206,
+      "id": "171b99fd0c246ab6",
+      "sourceSha256": "12354b59352ce85ac1fe4715e7370e620326b064f5691874786f900ea7056a56",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "938bc1467110a0be31915962203f422f6a014fe0fdc84595ad0b40b45faac09a",
+      "thumbnailSha256": "83e84c482c3b00c863fcfb3c2c50f0fc2dcde04fd57788dfa22f42136874bdea",
+      "previewBytes": 64058,
+      "thumbnailBytes": 7080
+    },
+    {
+      "member": "Huacademy Icon.png",
+      "bytes": 30743,
+      "crc32": "7dace18b",
+      "mode": 33206,
+      "id": "73395f9e1fa8f2e9",
+      "sourceSha256": "458ca4b0d2d57fb04b087c73a922fad5717e9e78da61a1ba665f5a51b54bc08b",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "7b579f4c789c65f7476355cf95f2d692556de9170c2f29a4823cc23bba032fe8",
+      "thumbnailSha256": "74a774e3a3c47ea901c774f324be25d365bb31f95171192accceb2d158f61983",
+      "previewBytes": 8164,
+      "thumbnailBytes": 5808
+    },
+    {
+      "member": "Huacademy Jini Egg.png",
+      "bytes": 42800,
+      "crc32": "36cf3058",
+      "mode": 33206,
+      "id": "68278e83881be9ed",
+      "sourceSha256": "7e6eccf4389c57fc894822d9f18d50700d604b92860d77ffdd410e085e36c0cb",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "91cfb5f6e8c0d4eb832e19d003cfe7fedf13f64042c956400665bbbffc635124",
+      "thumbnailSha256": "4b62da69e5d1d6e9057be163f6ff095274d463346c7153cdc547bc202c110d75",
+      "previewBytes": 7980,
+      "thumbnailBytes": 4532
+    },
+    {
+      "member": "Huacademy Jini Fruit.png",
+      "bytes": 56343,
+      "crc32": "8cf9d070",
+      "mode": 33206,
+      "id": "f7b1116e5fbdd244",
+      "sourceSha256": "20ca7aac5e2757211c8452b43f5acc895fbe504e0783a2680a038dbc97dec4d9",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "512861b23c18b2afb42258ed71c31bce7eda778c102d6a3452b36027231e3a56",
+      "thumbnailSha256": "45e99fa7aa3ffc7ad166c11c1785c85187e5cba2cb3c82dd75fb0f5719e528aa",
+      "previewBytes": 11164,
+      "thumbnailBytes": 5934
+    }
+  ],
+  "skipped": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "path": "evidence/client-assets/creator-stickers/pack-3-3.png",
+    "member": "Stickers_#1/3.png",
+    "source": "https://linkage-cdn.vasdgame.com/media/nrcg/20261015_56ea1177_Stickers 1.zip",
+    "bytes": 279483,
+    "sha256": "933d93451912b8286a21d4bc7cab0b9ecb9c1d248b31c29a4491fc4bbf7dcfb1",
+    "size": [
+      1080,
+      1080
+    ],
+    "frames": 1,
+    "localPath": "/stickers/question.webp",
+    "outputSha256": "5f1a2ed534fbc43ecec462cc2bd0b970ea4edce2cb5c5f326692f7dc2e9f1e46"
+  }
+]

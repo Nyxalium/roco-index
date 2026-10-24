@@ -1,0 +1,115 @@
+{
+  "familyId": "vpxdk3aucfysemhgpnatxvq4",
+  "familyTitle": "Hammerhead Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_ba78ae38_Hammerhead Evolution Line.zip",
+  "zipBytes": 505135,
+  "zipSha256": "806dc5e2a8e3f6f80878e716b57b081897d43d461f1ef5a83eb15c0c9d39c771",
+  "coverId": "694f3398f84a910c",
+  "files": [
+    {
+      "id": "694f3398f84a910c",
+      "filename": "Hammerhead Artwork.png",
+      "label": "Hammerhead",
+      "kind": "artwork",
+      "url": "/bundles/vpxdk3aucfysemhgpnatxvq4/694f3398f84a910c.webp",
+      "thumbnail": "/bundles/vpxdk3aucfysemhgpnatxvq4/694f3398f84a910c-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "60951b6ad05f3906",
+      "filename": "Hammerhead Icon.png",
+      "label": "Hammerhead",
+      "kind": "icon",
+      "url": "/bundles/vpxdk3aucfysemhgpnatxvq4/60951b6ad05f3906.webp",
+      "thumbnail": "/bundles/vpxdk3aucfysemhgpnatxvq4/60951b6ad05f3906-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "fd98802478d5fd02",
+      "filename": "Hammerhead Jini Egg.png",
+      "label": "Hammerhead",
+      "kind": "egg",
+      "url": "/bundles/vpxdk3aucfysemhgpnatxvq4/fd98802478d5fd02.webp",
+      "thumbnail": "/bundles/vpxdk3aucfysemhgpnatxvq4/fd98802478d5fd02-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "69517557fb5559dd",
+      "filename": "Hammerhead Jini Fruit.png",
+      "label": "Hammerhead",
+      "kind": "fruit",
+      "url": "/bundles/vpxdk3aucfysemhgpnatxvq4/69517557fb5559dd.webp",
+      "thumbnail": "/bundles/vpxdk3aucfysemhgpnatxvq4/69517557fb5559dd-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Hammerhead Artwork.png",
+      "bytes": 393879,
+      "crc32": "9261a0b2",
+      "mode": 33206,
+      "id": "694f3398f84a910c",
+      "sourceSha256": "1877fa7544cb221eeca5f09ab25e1ea0ea43087df7e5d6b0fcac78e39034cf74",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "e0f171116ae058931a94b8e30b1f6791ca3b8b30649dc825dbd768c8136c46be",
+      "thumbnailSha256": "1fd922f1b39686efbd838943f843162212c14c10081d490136da91d7545e2ebe",
+      "previewBytes": 66642,
+      "thumbnailBytes": 7248
+    },
+    {
+      "member": "Hammerhead Icon.png",
+      "bytes": 21682,
+      "crc32": "3cd14cf2",
+      "mode": 33206,
+      "id": "60951b6ad05f3906",
+      "sourceSha256": "9dfdc30e82178501462ac2313c5464f57b00fcc3c3720e4451e0e4942e8a099a",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "772796521b37152d25392a051dd614de55bc184fd54427ad30ef25f8d1d206ae",
+      "thumbnailSha256": "defcd978b40e29bc50482aabb25f7b55ae1535b625ca75af9eb46d9091842e41",
+      "previewBytes": 6348,
+      "thumbnailBytes": 4642
+    },
+    {
+      "member": "Hammerhead Jini Egg.png",
+      "bytes": 39604,
+      "crc32": "e35a94a9",
+      "mode": 33206,
+      "id": "fd98802478d5fd02",
+      "sourceSha256": "7b6ae5a9b51f945e247f5106c399b0fd112bd4d1cd15b9cbc55246f7a93962ee",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "ec06f94b5252b1e71b0cd5805da537d877dd79e5fc1635f22c17f65b09f25bbe",
+      "thumbnailSha256": "aab8bb41786c881471a5e62e99d444fe8a2b03a3b54dcc00fde21956e28c3057",
+      "previewBytes": 8170,
+      "thumbnailBytes": 4602
+    },
+    {
+      "member": "Hammerhead Jini Fruit.png",
+      "bytes": 54609,
+      "crc32": "bde9b6b8",
+      "mode": 33206,
+      "id": "69517557fb5559dd",
+      "sourceSha256": "beaea5b1490cd79b7adb137a6e577aa02e8c235f2f27fc8f52e2917159e7eb92",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "908d3f5b8076f4468f3c04bd14b7c542804bd51a30115c399290bddeff1395c1",
+      "thumbnailSha256": "3b66bdd6e7bb569a569544685e0bc77f79dd0088fdb8880c57281cdefb48367d",
+      "previewBytes": 11084,
+      "thumbnailBytes": 6028
+    }
+  ],
+  "skipped": []
+}

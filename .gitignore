@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.openai/
+*.tsbuildinfo
+.DS_Store
+output/
+.playwright-cli/
+.playwright/
+__pycache__/
+*.pyc
+
+# Local development and private working files.
+/research/
+/.env
+/.env.*
+!/.env.example

@@ -1,0 +1,51 @@
+.wallpaper-format-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:-5px 0 30px}
+.wallpaper-format-tabs button{display:flex;align-items:center;gap:7px;min-height:40px;padding:8px 16px;border:1px solid #c3d4e7;border-radius:12px;background:transparent;color:var(--muted);font:500 13px var(--body);cursor:pointer}
+.wallpaper-format-tabs button[aria-pressed=true]{background:#28466e;border-color:#28466e;color:white}
+.wallpaper-group+.wallpaper-group{margin-top:46px}
+.wallpaper-section-heading{display:flex;align-items:baseline;gap:14px;margin-bottom:20px}
+.wallpaper-section-heading h2{margin:0;font:600 28px var(--display);letter-spacing:-.6px}
+.wallpaper-section-heading>span{font-size:12px;color:var(--muted)}
+.wallpaper-group-mobile .resources-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
+.wallpaper-group-mobile .resource-art{aspect-ratio:9/19.5;background:#e5eff8}
+.wallpaper-group-mobile .resource-art img{object-fit:contain}
+@media(max-width:1100px){.wallpaper-group-mobile .resources-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:767px){.wallpaper-group-mobile .resources-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.wallpaper-section-heading h2{font-size:25px}.wallpaper-section-heading{gap:12px}.wallpaper-format-tabs{margin-bottom:24px}}
+.wallpaper-open{display:block;width:100%;padding:0;border:0;cursor:zoom-in;text-align:inherit}
+.wallpaper-expand{position:absolute;right:12px;bottom:12px;display:grid;place-items:center;width:34px;height:34px;border:1px solid #ffffff70;border-radius:11px;background:#203754b8;color:white;backdrop-filter:blur(6px);transition:background .18s}
+.wallpaper-open:hover .wallpaper-expand,.wallpaper-open:focus-visible .wallpaper-expand{background:#203754}
+.modal.wallpaper-lightbox{width:min(1440px,calc(100% - 48px));height:min(1000px,calc(100dvh - 48px));max-width:none;overflow:hidden;background:#1b2d47;border-color:#6985a3;border-radius:22px}
+.wallpaper-lightbox::backdrop{background:#101c32d9;backdrop-filter:blur(10px)}
+.wallpaper-lightbox .modal-close{width:42px;height:42px;right:14px;background:#fffefbf5}
+.wallpaper-gallery{height:100%;min-height:0;display:grid;grid-template-rows:minmax(0,1fr) auto}
+.wallpaper-stage{position:relative;display:grid;place-items:center;min-height:0;overflow:hidden;padding:24px;background:radial-gradient(ellipse at center,#314b6a,#1b2d47 75%)}
+.wallpaper-stage>img{display:block;grid-area:1/1;width:100%;height:100%;min-width:0;min-height:0;object-fit:contain}
+.wallpaper-image-status{grid-area:1/1;display:flex;flex-direction:column;align-items:center;gap:16px;padding:24px;color:#e6effb;text-align:center;font-size:14px}
+.wallpaper-image-status p{margin:0}
+.wallpaper-toolbar{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:20px 24px;background:var(--paper)}
+.wallpaper-caption{min-width:0}
+.wallpaper-caption h2{font-family:var(--display);font-size:23px;font-weight:600;line-height:1.2;margin:0;overflow-wrap:anywhere}
+.wallpaper-caption p{font-size:12px;color:var(--muted);margin:7px 0 0;font-variant-numeric:tabular-nums}
+.wallpaper-actions,.wallpaper-navigation{display:flex;align-items:center;gap:18px;flex-shrink:0}
+.wallpaper-navigation{gap:10px}
+.wallpaper-navigation .circle-button{width:44px;height:44px}
+.wallpaper-navigation>span{min-width:48px;text-align:center;font-size:13px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.wallpaper-download{gap:9px;min-height:44px;white-space:nowrap}
+@media(max-width:767px){
+  .modal.wallpaper-lightbox{width:calc(100% - 20px);height:calc(100dvh - 20px);max-height:calc(100dvh - 20px);border-radius:18px}
+  .wallpaper-lightbox .modal-close{right:10px}
+  .wallpaper-stage{padding:14px}
+  .wallpaper-toolbar{align-items:stretch;flex-direction:column;gap:16px;padding:18px max(16px,env(safe-area-inset-right)) max(18px,env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left))}
+  .wallpaper-caption h2{font-size:21px}
+  .wallpaper-actions{justify-content:space-between;gap:12px}
+  .wallpaper-navigation{gap:4px}
+  .wallpaper-navigation>span{min-width:40px;font-size:12px}
+  .wallpaper-download{padding-inline:12px;font-size:12px}
+}
+@media(max-width:359px){
+  .wallpaper-toolbar{padding-inline:12px}
+  .wallpaper-actions{gap:8px}
+  .wallpaper-navigation .circle-button{width:40px;height:40px;min-width:40px}
+  .wallpaper-navigation{gap:2px}
+  .wallpaper-navigation>span{min-width:36px}
+  .wallpaper-download{gap:6px;padding-inline:10px;font-size:11px}
+}

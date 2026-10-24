@@ -1,0 +1,11 @@
+.element-badge>.game-element-icon{display:block;flex:none;width:19px;height:19px;object-fit:contain}
+.element-badge.compact>.game-element-icon{width:16px;height:16px}
+.element-filter-strip .element-badge>.game-element-icon{width:19px;height:19px}
+.game-stat-icon{display:block;width:20px;height:20px;padding:3px;border-radius:5px;background:#5b7fa8;object-fit:contain;flex:none}
+.stat-bars>div{grid-template-columns:82px 28px minmax(0,1fr)}
+.stat-bars>div>span:first-child{display:flex;align-items:center;gap:6px}
+.game-skill-category{display:flex;align-items:center;gap:7px}
+.game-category-icon{display:block;width:22px;height:22px;padding:3px;border-radius:6px;background:#5b7fa8;object-fit:contain;flex:none}
+.game-energy-label{display:flex;align-items:center;justify-content:center;gap:4px}
+.game-energy-icon{display:block;width:16px;height:16px;padding:2px;border-radius:50%;background:#5b7fa8;object-fit:contain;flex:none}
+@media(max-width:767px){.creature-card-info .element-badge>.game-element-icon,.team-workspace .element-badge>.game-element-icon{width:14px;height:14px}.element-badge.compact>.game-element-icon{width:15px;height:15px}}

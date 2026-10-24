@@ -1,0 +1,115 @@
+{
+  "familyId": "c184xrc5ne4n9hluu6tsgz8m",
+  "familyTitle": "Magnix Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_1f6c984f_Magnix Evolution Line.zip",
+  "zipBytes": 452676,
+  "zipSha256": "eb4803fa0550061ee0f2bf22b731d3449b6603dda60b3c82061c52442814ddc8",
+  "coverId": "69d580ef5efaf337",
+  "files": [
+    {
+      "id": "69d580ef5efaf337",
+      "filename": "Magnix Artwork.png",
+      "label": "Magnix",
+      "kind": "artwork",
+      "url": "/bundles/c184xrc5ne4n9hluu6tsgz8m/69d580ef5efaf337.webp",
+      "thumbnail": "/bundles/c184xrc5ne4n9hluu6tsgz8m/69d580ef5efaf337-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "4c99df5446514475",
+      "filename": "Magnix Icon.png",
+      "label": "Magnix",
+      "kind": "icon",
+      "url": "/bundles/c184xrc5ne4n9hluu6tsgz8m/4c99df5446514475.webp",
+      "thumbnail": "/bundles/c184xrc5ne4n9hluu6tsgz8m/4c99df5446514475-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "12b19bdd00cc75d8",
+      "filename": "Magnix Jini Egg.png",
+      "label": "Magnix",
+      "kind": "egg",
+      "url": "/bundles/c184xrc5ne4n9hluu6tsgz8m/12b19bdd00cc75d8.webp",
+      "thumbnail": "/bundles/c184xrc5ne4n9hluu6tsgz8m/12b19bdd00cc75d8-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "35fa8b02a711f1af",
+      "filename": "Magnix Jini Fruit.png",
+      "label": "Magnix",
+      "kind": "fruit",
+      "url": "/bundles/c184xrc5ne4n9hluu6tsgz8m/35fa8b02a711f1af.webp",
+      "thumbnail": "/bundles/c184xrc5ne4n9hluu6tsgz8m/35fa8b02a711f1af-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Magnix Artwork.png",
+      "bytes": 352245,
+      "crc32": "7573f673",
+      "mode": 33206,
+      "id": "69d580ef5efaf337",
+      "sourceSha256": "3f5a726f838283d48e537abd661ef580f02905de68d94d720c64afc5cb396225",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "094d751c8bf84b434964082d7e84d982d83661c18b270fbb7aab2ec963962aa9",
+      "thumbnailSha256": "6b328dda62d7b284c4aadd3e2e166d48cb03f5731c7a867371e9c294dd0812aa",
+      "previewBytes": 49956,
+      "thumbnailBytes": 6122
+    },
+    {
+      "member": "Magnix Icon.png",
+      "bytes": 20707,
+      "crc32": "141d6e39",
+      "mode": 33206,
+      "id": "4c99df5446514475",
+      "sourceSha256": "369372bdddd4f40b6a46e01f00ffe964af3786378a4da2f42d95d8a17f5950f4",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "3bd59435063f9e8ea4f2748442b05b4cfc9209c8a7cc16f6a19bb322c7b7136b",
+      "thumbnailSha256": "79f3c6000ce49dd9c337d3bede2725fa57cb479f0ed7b6e799a81763c0f1829a",
+      "previewBytes": 4548,
+      "thumbnailBytes": 3330
+    },
+    {
+      "member": "Magnix Jini Egg.png",
+      "bytes": 35093,
+      "crc32": "8cf864ac",
+      "mode": 33206,
+      "id": "12b19bdd00cc75d8",
+      "sourceSha256": "5bbc86640b075a701d55878236d0702c9ea06eb5e993b65f662fb68047502f99",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "599d494148c4e4a47521c60d7b392bd87e66a6b60ff9826f659cb9ca7207a326",
+      "thumbnailSha256": "c1ba5bda43d69479721cd6f4f564e4fd295de4d10d1c788b3f6973b3980278e4",
+      "previewBytes": 6424,
+      "thumbnailBytes": 3750
+    },
+    {
+      "member": "Magnix Jini Fruit.png",
+      "bytes": 50320,
+      "crc32": "8c405cc3",
+      "mode": 33206,
+      "id": "35fa8b02a711f1af",
+      "sourceSha256": "1ffa1dc4de608ed5a51956bd847ec474f4712484845e4adcacf772f8970f5ab6",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "a15cbefd5a828c860582f669c5bb2e647066177af84de36343b4993a6f8ac489",
+      "thumbnailSha256": "33876e47cf222dbee34357ecdda9bc40e7fd07d18548e39ccd44c42f053c5caf",
+      "previewBytes": 10122,
+      "thumbnailBytes": 5464
+    }
+  ],
+  "skipped": []
+}

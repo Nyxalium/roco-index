@@ -1,0 +1,115 @@
+{
+  "familyId": "pu504ogi4fcct53uqro74m6m",
+  "familyTitle": "Remnstone Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_f6c48bc6_Remnstone Evolution Line.zip",
+  "zipBytes": 569511,
+  "zipSha256": "3040e72060e6f8ec0792def9414cc6cd06d3a57759b9fd509e5472cba5f014ad",
+  "coverId": "fc555a49e891f856",
+  "files": [
+    {
+      "id": "fc555a49e891f856",
+      "filename": "Remnstone Artwork.png",
+      "label": "Remnstone",
+      "kind": "artwork",
+      "url": "/bundles/pu504ogi4fcct53uqro74m6m/fc555a49e891f856.webp",
+      "thumbnail": "/bundles/pu504ogi4fcct53uqro74m6m/fc555a49e891f856-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "90ec5c1db3c26ff0",
+      "filename": "Remnstone Icon.png",
+      "label": "Remnstone",
+      "kind": "icon",
+      "url": "/bundles/pu504ogi4fcct53uqro74m6m/90ec5c1db3c26ff0.webp",
+      "thumbnail": "/bundles/pu504ogi4fcct53uqro74m6m/90ec5c1db3c26ff0-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "7377d82207537b13",
+      "filename": "Remnstone Jini Egg.png",
+      "label": "Remnstone",
+      "kind": "egg",
+      "url": "/bundles/pu504ogi4fcct53uqro74m6m/7377d82207537b13.webp",
+      "thumbnail": "/bundles/pu504ogi4fcct53uqro74m6m/7377d82207537b13-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "075a46ab23a5d8ba",
+      "filename": "Remnstone Jini Fruit.png",
+      "label": "Remnstone",
+      "kind": "fruit",
+      "url": "/bundles/pu504ogi4fcct53uqro74m6m/075a46ab23a5d8ba.webp",
+      "thumbnail": "/bundles/pu504ogi4fcct53uqro74m6m/075a46ab23a5d8ba-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Remnstone Artwork.png",
+      "bytes": 452611,
+      "crc32": "85546390",
+      "mode": 33206,
+      "id": "fc555a49e891f856",
+      "sourceSha256": "6fca3624523f5c741620521c9677409d2a470e95c29f265706804dc2d40125a5",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "252e1e05c206126eb856f3944b0a3598d877c2b03745bf70c75789b2ca2219b8",
+      "thumbnailSha256": "fb76d5067e5fdddb1a1f06ad8de6c2285909af96153c897fdf1eaeb2f0ccdeaa",
+      "previewBytes": 64658,
+      "thumbnailBytes": 5846
+    },
+    {
+      "member": "Remnstone Icon.png",
+      "bytes": 21989,
+      "crc32": "3ad19e4e",
+      "mode": 33206,
+      "id": "90ec5c1db3c26ff0",
+      "sourceSha256": "e91b1bd8022a323290ebe2d105173924be1879b381d654696138faff770642da",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "6b59a53f47a1a9fd1a7ebeeddef546d8e27d1347c08caa9d18db452ddcd6dda0",
+      "thumbnailSha256": "c2bea18ef50814d72a5e9beca748bd192c43df1b951bf86d659c89e21bbf65fa",
+      "previewBytes": 7392,
+      "thumbnailBytes": 5852
+    },
+    {
+      "member": "Remnstone Jini Egg.png",
+      "bytes": 42222,
+      "crc32": "dff3793b",
+      "mode": 33206,
+      "id": "7377d82207537b13",
+      "sourceSha256": "82f66984ffaf6237aa70e8e533cf785a8fab6dcfd589b57f16450a05de0ade52",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "da12424f4d722577a54e1b6d2363341d1bebb587d5ec7dbc2f544c390c94c746",
+      "thumbnailSha256": "8f7251ae1923f18663df799f7a3973c09ce71f12d5b64a79a35c0cf293165a8e",
+      "previewBytes": 7984,
+      "thumbnailBytes": 4410
+    },
+    {
+      "member": "Remnstone Jini Fruit.png",
+      "bytes": 57238,
+      "crc32": "923670e9",
+      "mode": 33206,
+      "id": "075a46ab23a5d8ba",
+      "sourceSha256": "77a9d6910b7b15be3132817b89e0282f4d073be5b3fdb926f05aa73054358ea8",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "8e73a2c0b895f6089756f4150746cb0220efb3e7f7e7f73b61001bbf359297c1",
+      "thumbnailSha256": "e8c1d38df0ed21429579762c12b7061c4ad01b2c6a3c6e738bab9f0b4c3fc908",
+      "previewBytes": 11378,
+      "thumbnailBytes": 5918
+    }
+  ],
+  "skipped": []
+}

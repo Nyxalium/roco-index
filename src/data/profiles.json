@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Dimo",
+    "key": "dimo",
+    "video": "https://rocokingdom.com/web/assets/videos/dimo.mp4",
+    "mediaLabel": "Dimo_background",
+    "height": "0.54-0.78m",
+    "weight": "5.5-7kg",
+    "type": "Light",
+    "desc": "This is a story of courage—afraid yet never retreating. This is a story of dreams—simple, yet unwavering. This is the story of Dimo.",
+    "source": "https://rocokingdom.com/",
+    "poster": "https://rocokingdom.com/web/assets/images/home/page3/poster/dimo-poster.jpg",
+    "note": "Homepage showcase data; no combat stats, skills, evolution or location data provided."
+  },
+  {
+    "name": "Meevy",
+    "key": "meevy",
+    "video": "https://rocokingdom.com/web/assets/videos/meevy.mp4",
+    "mediaLabel": "Meevy_background",
+    "height": "0.53-0.75m",
+    "weight": "3.62-4.6kg",
+    "type": "Flora",
+    "desc": "Loves the sun and fresh air. Often wags its tail, but darts off when startled. A shy little one, but can be mischievous at times.",
+    "source": "https://rocokingdom.com/",
+    "poster": "https://rocokingdom.com/web/assets/images/home/page3/poster/meevy-poster.jpg",
+    "note": "Homepage showcase data; no combat stats, skills, evolution or location data provided."
+  },
+  {
+    "name": "Sparka",
+    "key": "sparka",
+    "video": "https://rocokingdom.com/web/assets/videos/huohua.mp4",
+    "mediaLabel": "Sparka_background",
+    "height": "0.53-0.71m",
+    "weight": "7.6-8.5kg",
+    "type": "Fire",
+    "desc": "A tiny burst of sparks (literally)! Honest, fiery, and fearless. It knows its way around fire. Can be a bit reckless sometimes, but it's a partner you can trust.",
+    "source": "https://rocokingdom.com/",
+    "poster": "https://rocokingdom.com/web/assets/images/home/page3/poster/sparka-poster.jpg",
+    "note": "Homepage showcase data; no combat stats, skills, evolution or location data provided."
+  },
+  {
+    "name": "Cerulla",
+    "key": "cerulla",
+    "video": "https://rocokingdom.com/web/assets/videos/shuilanlan.mp4",
+    "mediaLabel": "Cerulla_background",
+    "height": "0.45-0.65m",
+    "weight": "2.85-4.205kg",
+    "type": "Water",
+    "desc": "It wears a cute red bow on its head. Enjoys drifting on the water's surface, popping bubbles from time to time. On dry land, a thin watery film envelops its body.",
+    "source": "https://rocokingdom.com/",
+    "poster": "https://rocokingdom.com/web/assets/images/home/page3/poster/cerulla-poster.jpg",
+    "note": "Homepage showcase data; no combat stats, skills, evolution or location data provided."
+  },
+  {
+    "name": "Vargyr",
+    "key": "vargyr",
+    "video": "https://rocokingdom.com/web/assets/videos/emolang.mp4",
+    "mediaLabel": "Vargyr_background",
+    "height": "1.23-1.76m",
+    "weight": "74-92kg",
+    "type": "Havoc",
+    "desc": "The coarse fur on its chest acts like natural armor. It moves swiftly across the battlefield, striking hard with powerful foreclaws.",
+    "source": "https://rocokingdom.com/",
+    "poster": "https://rocokingdom.com/web/assets/images/home/page3/poster/vargyr-poster.jpg",
+    "note": "Homepage showcase data; no combat stats, skills, evolution or location data provided."
+  },
+  {
+    "name": "Duckiji",
+    "key": "duckiji",
+    "video": "https://rocokingdom.com/web/assets/videos/yajiji.mp4",
+    "mediaLabel": "Duckiji_background",
+    "height": "0.65-0.94m",
+    "weight": "14.6-17.6kg",
+    "type": "Common",
+    "desc": "Its fluffy coat is exceptionally soft. It seems to dislike physical contact and resists being petted. A highly intelligent Jini, it notices anything out of the ordinary, especially shiny objects and anything unusual.",
+    "source": "https://rocokingdom.com/",
+    "poster": "https://rocokingdom.com/web/assets/images/home/page3/poster/duckiji-poster.jpg",
+    "note": "Homepage showcase data; no combat stats, skills, evolution or location data provided."
+  }
+]

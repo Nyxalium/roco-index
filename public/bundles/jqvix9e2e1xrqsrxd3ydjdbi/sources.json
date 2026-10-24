@@ -1,0 +1,115 @@
+{
+  "familyId": "jqvix9e2e1xrqsrxd3ydjdbi",
+  "familyTitle": "Meerit Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_d7b4e02d_Meerit Evolution Line.zip",
+  "zipBytes": 572216,
+  "zipSha256": "29a1b08c37760c99b89c5e0badac018a1c089e8a26f9faa6fe687d62fd08b340",
+  "coverId": "23c1662ac9d510d5",
+  "files": [
+    {
+      "id": "23c1662ac9d510d5",
+      "filename": "Meerit Artwork.png",
+      "label": "Meerit",
+      "kind": "artwork",
+      "url": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/23c1662ac9d510d5.webp",
+      "thumbnail": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/23c1662ac9d510d5-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "3c57510da5222267",
+      "filename": "Meerit Icon.png",
+      "label": "Meerit",
+      "kind": "icon",
+      "url": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/3c57510da5222267.webp",
+      "thumbnail": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/3c57510da5222267-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "6acda24df17f6228",
+      "filename": "Meerit Jini Egg.png",
+      "label": "Meerit",
+      "kind": "egg",
+      "url": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/6acda24df17f6228.webp",
+      "thumbnail": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/6acda24df17f6228-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "a097b8463c91e28d",
+      "filename": "Meerit Jini Fruit.png",
+      "label": "Meerit",
+      "kind": "fruit",
+      "url": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/a097b8463c91e28d.webp",
+      "thumbnail": "/bundles/jqvix9e2e1xrqsrxd3ydjdbi/a097b8463c91e28d-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Meerit Artwork.png",
+      "bytes": 465103,
+      "crc32": "7ab7eaab",
+      "mode": 33206,
+      "id": "23c1662ac9d510d5",
+      "sourceSha256": "37791506c5e3df44815b47f8e0b06b6f86a6206860d071ac3b53d6ac79261eb4",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "e71e3c4e9fee1eb7d659f5c490b08b8719626d1a9a6795f654cc56ab63c333c0",
+      "thumbnailSha256": "7ed0e387c0c73a888f6fee4c5303c4b4d8bd2908a697025297a0a890ba335f2c",
+      "previewBytes": 73570,
+      "thumbnailBytes": 7274
+    },
+    {
+      "member": "Meerit Icon.png",
+      "bytes": 26101,
+      "crc32": "7641dbf6",
+      "mode": 33206,
+      "id": "3c57510da5222267",
+      "sourceSha256": "dc48de2e2e792e8f6dc5ed11dd572ff97d6f521d016fe2abcf4fa4b2e52c76dc",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "03813fed4c494fd856220d2f91cb0b9ba6ce87276b744b4ce149f28f45487de9",
+      "thumbnailSha256": "6b091c028291d88e53d1f98929d04e536a84808c0851cd1e8ce372aebaced2f7",
+      "previewBytes": 6406,
+      "thumbnailBytes": 4714
+    },
+    {
+      "member": "Meerit Jini Egg.png",
+      "bytes": 34088,
+      "crc32": "1b189d53",
+      "mode": 33206,
+      "id": "6acda24df17f6228",
+      "sourceSha256": "b2b83e571be40f71bf828adef0240a4a750ffac7a1805678e76bad2a51337c2b",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "53c09ada3f2583257161435eddcd557dbe24d52f803e598437c7862afdf77620",
+      "thumbnailSha256": "6d1f12d8b18db1a4c5b89f31b7d0c160c5572009fcdee88c8d71f5fc6b4193c0",
+      "previewBytes": 6090,
+      "thumbnailBytes": 3920
+    },
+    {
+      "member": "Meerit Jini Fruit.png",
+      "bytes": 51612,
+      "crc32": "7eeef8ad",
+      "mode": 33206,
+      "id": "a097b8463c91e28d",
+      "sourceSha256": "479e888f3a86ec2d8cd5668dfc7733dcdbea1213f8e173928fe9c42eed61bfeb",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "6f3fa6512e47fa9b62955890f4486efae51d3604429c475e2446a35e95891835",
+      "thumbnailSha256": "7f10b8b254bfc6476f7ff0ce3b7531bb5cdb718581042cfcda0bc1ba55d9d8cc",
+      "previewBytes": 9880,
+      "thumbnailBytes": 5666
+    }
+  ],
+  "skipped": []
+}

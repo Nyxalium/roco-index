@@ -1,0 +1,507 @@
+{
+  "site": "https://roco.world",
+  "catalogVersion": "f5298db5f7e9",
+  "attribution": "Game interface icons © Tencent / MoreFun Studios. Image reference: roco.world.",
+  "files": [
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/battle_pet_system/0082_AT_STAR_ENERGY_png_AT_STAR_ENERGY_png.webp",
+      "category": "ui_icons",
+      "bytes": 476,
+      "sha256": "0d0c4d8170becfc5722bd4ae1839b0cb61ced2a74289027a2aa664dc37678a72",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/battle_pet_system/0082_AT_STAR_ENERGY_png_AT_STAR_ENERGY_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0105_1_img_putong_png.webp",
+      "category": "ui_icons",
+      "bytes": 1098,
+      "sha256": "4594462eda8588a404b31f5232dbf39d67baba2d9c85b771749931fea58200da",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0105_1_img_putong_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0106_2_img_cao_png.webp",
+      "category": "ui_icons",
+      "bytes": 950,
+      "sha256": "0e5806bb8bc5e956c1da68cd159283179880c5e28d3cb8ea89dea5383f0dadd2",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0106_2_img_cao_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0107_3_img_huo_png.webp",
+      "category": "ui_icons",
+      "bytes": 1164,
+      "sha256": "3f3adb912de1f26eb49f7770e999daf9518197c42cb5c153dab1ca8408d6cf58",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0107_3_img_huo_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0108_4_img_shui_png.webp",
+      "category": "ui_icons",
+      "bytes": 996,
+      "sha256": "39d40f6f0c5fb0b450a9fcbb74053dd928065d4ddb4947bfa957f063d5766a65",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0108_4_img_shui_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0109_5_img_guang_png.webp",
+      "category": "ui_icons",
+      "bytes": 1092,
+      "sha256": "38639675582000ab39f88434a70140f0b6b7dade3e02007b6b7bff726121e56a",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0109_5_img_guang_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0110_6_img_yan_png.webp",
+      "category": "ui_icons",
+      "bytes": 998,
+      "sha256": "82ae002332c342e18d50ce1eba94c491db28350a0521639d24c0baf47d2e543e",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0110_6_img_yan_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0111_7_img_xue_png.webp",
+      "category": "ui_icons",
+      "bytes": 1084,
+      "sha256": "28794c107677cf3a4d7b4aaab2b8a24faa036a8cf8d451c6e895cc4c55660f99",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0111_7_img_xue_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0112_8_img_long_png.webp",
+      "category": "ui_icons",
+      "bytes": 1094,
+      "sha256": "33b9b13cf4840abdd270f7d7a27a3b853b9a9e7dff54e80913a3b684b4b5d054",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0112_8_img_long_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0113_9_img_dian_png.webp",
+      "category": "ui_icons",
+      "bytes": 868,
+      "sha256": "8ead29cda5204854ebe763477623e56e7203a27dd8643b6bb38e6c7f0ee87aa1",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0113_9_img_dian_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0114_10_img_du_png.webp",
+      "category": "ui_icons",
+      "bytes": 1032,
+      "sha256": "a2f5370622c21b6291460aadad5283102df98ed1ff0c63b424e2d603c2bf455f",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0114_10_img_du_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0115_11_img_cong_png.webp",
+      "category": "ui_icons",
+      "bytes": 1050,
+      "sha256": "89af9fa7cd651d306278d46317ec20b529fb0edf8a70f94443cadad560189fb5",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0115_11_img_cong_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0116_12_img_wu_png.webp",
+      "category": "ui_icons",
+      "bytes": 1040,
+      "sha256": "b8b39aa2aca089bb1eb8cc3a059068fd08a3278ed7d4bc2535f58209ebf5a704",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0116_12_img_wu_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0117_13_img_yi_png.webp",
+      "category": "ui_icons",
+      "bytes": 1116,
+      "sha256": "d02fea053989853130e4ee1c833795ff9e2c1bdc97bb4c9c435d04c788cb4daf",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0117_13_img_yi_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0118_14_img_meng_png.webp",
+      "category": "ui_icons",
+      "bytes": 958,
+      "sha256": "43b6925879b6fc24e4ce0faa2ca7b21f1a8bb36c02b15887a0b4a0581c7501fa",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0118_14_img_meng_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0119_15_img_youling_png.webp",
+      "category": "ui_icons",
+      "bytes": 1044,
+      "sha256": "cb5ee39d4e5ea07a95398fb0ce90fa07f6c9e463c3a11ba2bf7d637d21528041",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0119_15_img_youling_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0120_16_img_emo_png.webp",
+      "category": "ui_icons",
+      "bytes": 1120,
+      "sha256": "ce3acc4aa2a0a4e6f91c09727a74c9cdc351a4af69242f16bc506f99aa8f4b9d",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0120_16_img_emo_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0121_17_img_jixie_png.webp",
+      "category": "ui_icons",
+      "bytes": 1102,
+      "sha256": "e1c4d90ef20f1f5c2fd51dfc3b6a4787e33ec05150dddb8c6eeeb39940b78a28",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0121_17_img_jixie_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0122_18_img_huan_png.webp",
+      "category": "ui_icons",
+      "bytes": 1140,
+      "sha256": "afed1136d3bf839b105c54b4f23a5d7907299c0445b7141d9b8ccdc1669975bb",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0122_18_img_huan_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/bloodline_icon/0123_19_img_shouling_png.webp",
+      "category": "ui_icons",
+      "bytes": 1100,
+      "sha256": "458eb1ba40d89043bc23b29f1c35f0ed5d98576e64987668f7aab6a6d6618d99",
+      "width": 59,
+      "height": 67,
+      "format": "WEBP",
+      "local": "/game-ui/bloodline_icon/0123_19_img_shouling_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_shiny_symbol/0047_img_yisetubian_png_img_yisetubian_png.webp",
+      "category": "ui_icons",
+      "bytes": 1368,
+      "sha256": "bf504420421b0afe423661c26e2db6882045f2eeaa4a42dc965cbf7b28b1fcbc",
+      "width": 80,
+      "height": 80,
+      "format": "WEBP",
+      "local": "/game-ui/pet_shiny_symbol/0047_img_yisetubian_png_img_yisetubian_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_shiny_symbol/0048_img_yisexuancai_png_img_yisexuancai_png.webp",
+      "category": "ui_icons",
+      "bytes": 2502,
+      "sha256": "10edc2549a018ab4726632141717446d5e2cf01e8a5594527b168110f96d7d3f",
+      "width": 80,
+      "height": 80,
+      "format": "WEBP",
+      "local": "/game-ui/pet_shiny_symbol/0048_img_yisexuancai_png_img_yisexuancai_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_stat/0037_1_ui_pet_attribute_01_png.webp",
+      "category": "ui_icons",
+      "bytes": 594,
+      "sha256": "606366b904e86d199c918befd35005be2c5fe09d30f8dfa43d7f8cbc8d913c82",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/pet_stat/0037_1_ui_pet_attribute_01_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_stat/0038_2_ui_pet_attribute_02_png.webp",
+      "category": "ui_icons",
+      "bytes": 532,
+      "sha256": "492eb24eb363daf04e7271be155d5b4b79ddada1772bf217a3dd03e7f39537dd",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/pet_stat/0038_2_ui_pet_attribute_02_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_stat/0039_3_ui_pet_attribute_04_png.webp",
+      "category": "ui_icons",
+      "bytes": 714,
+      "sha256": "5c67e8dc7966d69832e2fc2c4d0620acfd81772c81fae3028cd944c30d519f8c",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/pet_stat/0039_3_ui_pet_attribute_04_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_stat/0040_4_ui_pet_attribute_03_png.webp",
+      "category": "ui_icons",
+      "bytes": 692,
+      "sha256": "ca3f7cf12ac34bd60632de66d5c3f9c306741af2962b1b1ba8c357f837afc4e0",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/pet_stat/0040_4_ui_pet_attribute_03_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_stat/0041_5_ui_pet_attribute_05_png.webp",
+      "category": "ui_icons",
+      "bytes": 552,
+      "sha256": "2527c6997a29f3656c345fd0e5f93de746892dae16fd1ceb0aa9de31b0973677",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/pet_stat/0041_5_ui_pet_attribute_05_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_stat/0042_6_ui_pet_attribute_06_png.webp",
+      "category": "ui_icons",
+      "bytes": 624,
+      "sha256": "b7a0e466fe9000861856c3cab498c6279e0d844cd8ee9b1eb3d0d517f8801ed0",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/pet_stat/0042_6_ui_pet_attribute_06_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0001_2_ui_icon_species_02_png.webp",
+      "category": "ui_icons",
+      "bytes": 940,
+      "sha256": "9de5c8a58a381ad6f6c5408efaccb910b704869a390ffa769036b8691c0cc925",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0001_2_ui_icon_species_02_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0002_3_ui_icon_species_03_png.webp",
+      "category": "ui_icons",
+      "bytes": 920,
+      "sha256": "ab997736dceed49a086f0a8e2c7cc20136c5d6bb241236cf402c74de3f72a1df",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0002_3_ui_icon_species_03_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0003_4_ui_icon_species_04_png.webp",
+      "category": "ui_icons",
+      "bytes": 1150,
+      "sha256": "5f8cbd4e209b544132a7d4cb3a407e86d3d71c117fd9ecb3a4118d228df08c31",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0003_4_ui_icon_species_04_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0004_5_ui_icon_species_05_png.webp",
+      "category": "ui_icons",
+      "bytes": 912,
+      "sha256": "85061efc5e10683599c2334330f27a8f8064ab38fa63f3f188a9e4d958398d14",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0004_5_ui_icon_species_05_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0005_6_ui_icon_species_06_png.webp",
+      "category": "ui_icons",
+      "bytes": 982,
+      "sha256": "1015921546292e534debe4ee5f4965dbb337ff66cf8d5acd87902eed1fa9db2a",
+      "width": 55,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0005_6_ui_icon_species_06_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0006_8_ui_icon_species_08_png.webp",
+      "category": "ui_icons",
+      "bytes": 1010,
+      "sha256": "2f4ec3a809c6023fe1f964094f4af8afa31ada9dbd025dff042c20aed5582ebc",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0006_8_ui_icon_species_08_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0007_9_ui_icon_species_09_png.webp",
+      "category": "ui_icons",
+      "bytes": 1030,
+      "sha256": "3c1dda4b725ee98ac0879dff726ea42513383f15a33caf33d1eb669d0279c8b8",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0007_9_ui_icon_species_09_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0008_10_ui_icon_species_10_png.webp",
+      "category": "ui_icons",
+      "bytes": 1006,
+      "sha256": "fd0bcd6f325039ccfad41581559e4086f0be60ee8c41938147291e2876fb9cd3",
+      "width": 55,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0008_10_ui_icon_species_10_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0009_11_ui_icon_species_11_png.webp",
+      "category": "ui_icons",
+      "bytes": 788,
+      "sha256": "3e1bba05fe9d608580703be7fa2866ffc6fa90f6dd9e2bb0464cc33244050180",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0009_11_ui_icon_species_11_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0010_12_ui_icon_species_12_png.webp",
+      "category": "ui_icons",
+      "bytes": 1030,
+      "sha256": "36c416cf5463132fa4a2db71f82d4794965e428f8b2333899cd2fd04e6e72c81",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0010_12_ui_icon_species_12_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0011_13_ui_icon_species_13_png.webp",
+      "category": "ui_icons",
+      "bytes": 1078,
+      "sha256": "3172620bc391b2804a5268ee498779d5edf5e0d2e5aba1916b3c25ba97189b1d",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0011_13_ui_icon_species_13_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0012_14_ui_icon_species_14_png.webp",
+      "category": "ui_icons",
+      "bytes": 982,
+      "sha256": "3e5889915bbfb675792b3a8a7c74283705da293eb1c67dbcf6300fad9cccfaa0",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0012_14_ui_icon_species_14_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0013_15_ui_icon_species_15_png.webp",
+      "category": "ui_icons",
+      "bytes": 1084,
+      "sha256": "8212ada43cb98be215ed4007385a479c3dcffe0b05d25067d9d812de9eaca6e2",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0013_15_ui_icon_species_15_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0014_16_ui_icon_species_16_png.webp",
+      "category": "ui_icons",
+      "bytes": 904,
+      "sha256": "dcc751468dad75fa059606b4e7dfbdaec8cd0ac9fbbb7aaaee46b02e66856370",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0014_16_ui_icon_species_16_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0015_17_ui_icon_species_17_png.webp",
+      "category": "ui_icons",
+      "bytes": 998,
+      "sha256": "e551a1054c0e5173ad1e4b14917e2e8e167d01f8c73775fb4137d2f6bcce292f",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0015_17_ui_icon_species_17_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0016_18_ui_icon_species_18_png.webp",
+      "category": "ui_icons",
+      "bytes": 1106,
+      "sha256": "576eb8c32469cce2e091300c53e108af9092bb63e53186cfd40f0b0c0df12e9e",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0016_18_ui_icon_species_18_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0017_19_ui_icon_species_19_png.webp",
+      "category": "ui_icons",
+      "bytes": 1010,
+      "sha256": "5d6e88c8cb07ff8febc2e5f55f1822175705366696b064655136f2dcd0fbdc63",
+      "width": 55,
+      "height": 56,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0017_19_ui_icon_species_19_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/pet_type/0018_20_ui_icon_species_20_png.webp",
+      "category": "ui_icons",
+      "bytes": 1096,
+      "sha256": "07b560a6a3b34f1ef33c220eea9e14e0731d3e52a257da27695734a61dcc3ed9",
+      "width": 56,
+      "height": 57,
+      "format": "WEBP",
+      "local": "/game-ui/pet_type/0018_20_ui_icon_species_20_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/skill_category/0043_physical_AT_ATTACK_png.webp",
+      "category": "ui_icons",
+      "bytes": 622,
+      "sha256": "4139e32454f9081baf198e3dcf91144a5f4129918f0dce7992bb14802974eb14",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/skill_category/0043_physical_AT_ATTACK_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/skill_category/0044_magic_ui_pet_attribute_04_png.webp",
+      "category": "ui_icons",
+      "bytes": 714,
+      "sha256": "5c67e8dc7966d69832e2fc2c4d0620acfd81772c81fae3028cd944c30d519f8c",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/skill_category/0044_magic_ui_pet_attribute_04_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/skill_category/0045_status_AT_CLASSIFICATION_png.webp",
+      "category": "ui_icons",
+      "bytes": 598,
+      "sha256": "d6de492ee913b1219ed1175acb5e6f5e7c468118d0737231c1723672b735fa8f",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/skill_category/0045_status_AT_CLASSIFICATION_png.webp"
+    },
+    {
+      "source": "https://roco.world/assets/f5298db5f7e9/images/ui_icons/skill_category/0046_defense_AT_DEFENSE_png.webp",
+      "category": "ui_icons",
+      "bytes": 774,
+      "sha256": "b66b111c05fea3aa5cc7a8caab7b64410678172d4f773dae576824f0f5ed35dd",
+      "width": 64,
+      "height": 64,
+      "format": "WEBP",
+      "local": "/game-ui/skill_category/0046_defense_AT_DEFENSE_png.webp"
+    }
+  ]
+}

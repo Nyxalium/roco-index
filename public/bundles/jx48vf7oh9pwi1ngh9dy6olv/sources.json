@@ -1,0 +1,115 @@
+{
+  "familyId": "jx48vf7oh9pwi1ngh9dy6olv",
+  "familyTitle": "Ireyl Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_fe212978_Ireyl Evolution Line.zip",
+  "zipBytes": 618660,
+  "zipSha256": "d37464c9f59272d74d000c6c9a5bc51ed85a265037bfaf872a351256b026b7e1",
+  "coverId": "5827c2fc05dd2d24",
+  "files": [
+    {
+      "id": "5827c2fc05dd2d24",
+      "filename": "Ireyl Artwork.png",
+      "label": "Ireyl",
+      "kind": "artwork",
+      "url": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/5827c2fc05dd2d24.webp",
+      "thumbnail": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/5827c2fc05dd2d24-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "f475be143e9db342",
+      "filename": "Ireyl Icon.png",
+      "label": "Ireyl",
+      "kind": "icon",
+      "url": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/f475be143e9db342.webp",
+      "thumbnail": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/f475be143e9db342-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "cbe5227543fc8518",
+      "filename": "Ireyl Jini Egg.png",
+      "label": "Ireyl",
+      "kind": "egg",
+      "url": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/cbe5227543fc8518.webp",
+      "thumbnail": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/cbe5227543fc8518-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "959079d6f668046d",
+      "filename": "Ireyl Jini Fruit.png",
+      "label": "Ireyl",
+      "kind": "fruit",
+      "url": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/959079d6f668046d.webp",
+      "thumbnail": "/bundles/jx48vf7oh9pwi1ngh9dy6olv/959079d6f668046d-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Ireyl Artwork.png",
+      "bytes": 489581,
+      "crc32": "2f4f050a",
+      "mode": 33206,
+      "id": "5827c2fc05dd2d24",
+      "sourceSha256": "b2811b62fb34e77e43454c2034713616eff91df14b817aecf8a1fc518547f9e8",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "5dc2b3a52f1acaff40af75e70e69783a77f10c959f08ae5a456d767ab2479b1f",
+      "thumbnailSha256": "ca548ecc8dffda0b62e8c0ca2eba7419ec13f8424d483fa698dc8a16551a6aea",
+      "previewBytes": 89134,
+      "thumbnailBytes": 8662
+    },
+    {
+      "member": "Ireyl Icon.png",
+      "bytes": 35914,
+      "crc32": "50436068",
+      "mode": 33206,
+      "id": "f475be143e9db342",
+      "sourceSha256": "5bb4e5a6a97063b74d4205875bc9f1dd7ab052fcbb3ab0d53861becb08ac49fa",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "e1162de69ed7cd55931dee87f81babeaf1f45022a89b67d8f90342ca560bbe5a",
+      "thumbnailSha256": "c7bf60ad5c58087de8016937e9f0be22f9d702f727aadde3a10a44535ad30ba5",
+      "previewBytes": 9780,
+      "thumbnailBytes": 6282
+    },
+    {
+      "member": "Ireyl Jini Egg.png",
+      "bytes": 41193,
+      "crc32": "f850c7bc",
+      "mode": 33206,
+      "id": "cbe5227543fc8518",
+      "sourceSha256": "b1b6f11e2cec583fc4f908e05f48f4bb5d5bf6c94211a5d4c21d6d02059b41d2",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "8714cf9425a759b9a5102a1cdaa286d2ecb123353f59dd9f68256556e14cc0e2",
+      "thumbnailSha256": "75845c5e4762ecaad24d0ae2b6f7f487ddb88d2cf48666a702deb7b26fc13bf7",
+      "previewBytes": 8704,
+      "thumbnailBytes": 4738
+    },
+    {
+      "member": "Ireyl Jini Fruit.png",
+      "bytes": 55336,
+      "crc32": "0d1e85d4",
+      "mode": 33206,
+      "id": "959079d6f668046d",
+      "sourceSha256": "0e37da944dd3672f35cc512758c88f3e9e201eb8ce5d27c12cda487586951243",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "6be0b2e777112bbc8ed6f1a3a216334e67bf17e8177a8be99d923e9e7d75392c",
+      "thumbnailSha256": "625f889e704131451907c2d0caac581a56bc7b261933bf39c3cdbc1571c94435",
+      "previewBytes": 11492,
+      "thumbnailBytes": 6028
+    }
+  ],
+  "skipped": []
+}

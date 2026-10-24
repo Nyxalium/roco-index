@@ -1,0 +1,115 @@
+{
+  "familyId": "z20rcb4xy0x8s1avpsrsyj5v",
+  "familyTitle": "Pagestr Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_3354f1de_Pagestr Evolution Line.zip",
+  "zipBytes": 787927,
+  "zipSha256": "95afa0b60f97aa53db3915b78600858467d9f87c0b5f2f62e4b1b9869638068b",
+  "coverId": "7a2422d6fff64d3a",
+  "files": [
+    {
+      "id": "7a2422d6fff64d3a",
+      "filename": "Pagestr Artwork.png",
+      "label": "Pagestr",
+      "kind": "artwork",
+      "url": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/7a2422d6fff64d3a.webp",
+      "thumbnail": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/7a2422d6fff64d3a-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "677b2440e82b8be0",
+      "filename": "Pagestr Icon.png",
+      "label": "Pagestr",
+      "kind": "icon",
+      "url": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/677b2440e82b8be0.webp",
+      "thumbnail": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/677b2440e82b8be0-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "f57ab4c6d0770aa9",
+      "filename": "Pagestr Jini Egg.png",
+      "label": "Pagestr",
+      "kind": "egg",
+      "url": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/f57ab4c6d0770aa9.webp",
+      "thumbnail": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/f57ab4c6d0770aa9-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "c19c01731e51e804",
+      "filename": "Pagestr Jini Fruit.png",
+      "label": "Pagestr",
+      "kind": "fruit",
+      "url": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/c19c01731e51e804.webp",
+      "thumbnail": "/bundles/z20rcb4xy0x8s1avpsrsyj5v/c19c01731e51e804-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Pagestr Artwork.png",
+      "bytes": 658807,
+      "crc32": "7daa18c7",
+      "mode": 33206,
+      "id": "7a2422d6fff64d3a",
+      "sourceSha256": "5a5ed64072cc7e3e720644ada584f62f51d168f9176231a9ef76644e4a67e434",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "ca23822ebc7e5274fb85e0f561cf74382ab0daf0710388a3e6620f005606c7f2",
+      "thumbnailSha256": "9004d9440720458cfaa7e1d81abbb13b2a40a39cedf81808872871da9ef5e183",
+      "previewBytes": 96828,
+      "thumbnailBytes": 6986
+    },
+    {
+      "member": "Pagestr Icon.png",
+      "bytes": 22575,
+      "crc32": "ee86a82d",
+      "mode": 33206,
+      "id": "677b2440e82b8be0",
+      "sourceSha256": "7c06a758c1882c8424f3fa44d9a1156b385be183e5f2b624bc3ced59adf0dd4f",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "b1b5f3f0f6c9ef46c217aab529697047863336f8b1b55f170ec9fd6395404376",
+      "thumbnailSha256": "72615dd397b6235737e45a6c6aab6bfaf7204ec298641adbea49f82a05a10570",
+      "previewBytes": 6178,
+      "thumbnailBytes": 4314
+    },
+    {
+      "member": "Pagestr Jini Egg.png",
+      "bytes": 50912,
+      "crc32": "88fd9827",
+      "mode": 33206,
+      "id": "f57ab4c6d0770aa9",
+      "sourceSha256": "12bc9cbe7bc4db92fb37e571e87eb3498871ed00bd590d5e22d1e7489e40de29",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "246105bf783e354d774ef2593203d1887ca0025306b6aaa7323299fcc9cd70ca",
+      "thumbnailSha256": "c224c20accf4596470ede982cda85a39b973b5e796a32caeccd78be5163970f8",
+      "previewBytes": 9556,
+      "thumbnailBytes": 5264
+    },
+    {
+      "member": "Pagestr Jini Fruit.png",
+      "bytes": 60455,
+      "crc32": "2d53777c",
+      "mode": 33206,
+      "id": "c19c01731e51e804",
+      "sourceSha256": "32fab5a3424274557f8efbb4e3127b0f42562421c38a9bb04ebe9b49780d8338",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "391101911d655f545a36deb22ffa1c06febd120780fb5b0b801ea33a6389b084",
+      "thumbnailSha256": "a8699c0de45e80e95fe3bd2be1b69d6960f80d3f02b4478b922cb5398ace9cf7",
+      "previewBytes": 12260,
+      "thumbnailBytes": 6326
+    }
+  ],
+  "skipped": []
+}

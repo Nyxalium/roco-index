@@ -1,0 +1,115 @@
+{
+  "familyId": "khcw0xfz6v2i1rkc5vxjq7hh",
+  "familyTitle": "Bellisk Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_effb9681_Bellisk Evolution Line.zip",
+  "zipBytes": 592887,
+  "zipSha256": "37ac9f5b0a14f6cd2579c5b27e4c9989461f2656b84983f86f771498da71e59b",
+  "coverId": "e68a5885c5d0c5d7",
+  "files": [
+    {
+      "id": "e68a5885c5d0c5d7",
+      "filename": "Bellisk Artwork.png",
+      "label": "Bellisk",
+      "kind": "artwork",
+      "url": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/e68a5885c5d0c5d7.webp",
+      "thumbnail": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/e68a5885c5d0c5d7-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "13617e08f4dbc973",
+      "filename": "Bellisk Icon.png",
+      "label": "Bellisk",
+      "kind": "icon",
+      "url": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/13617e08f4dbc973.webp",
+      "thumbnail": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/13617e08f4dbc973-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "1315690ebd45f67e",
+      "filename": "Bellisk Jini Egg.png",
+      "label": "Bellisk",
+      "kind": "egg",
+      "url": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/1315690ebd45f67e.webp",
+      "thumbnail": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/1315690ebd45f67e-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "1c9a106b17ac6e74",
+      "filename": "Bellisk Jini Fruit.png",
+      "label": "Bellisk",
+      "kind": "fruit",
+      "url": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/1c9a106b17ac6e74.webp",
+      "thumbnail": "/bundles/khcw0xfz6v2i1rkc5vxjq7hh/1c9a106b17ac6e74-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Bellisk Artwork.png",
+      "bytes": 467242,
+      "crc32": "a149e0f0",
+      "mode": 33206,
+      "id": "e68a5885c5d0c5d7",
+      "sourceSha256": "3ae1db44f65e0c1b4f34c3ff022a7c60b560df5f34047df9f9365d92251f877b",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "8013de65eebce50a00a5671820e81e264f931c155200f046da1d40274bc657c4",
+      "thumbnailSha256": "a256524510e5412347a049a80ea781e43266b23e0fe05ef0566eb3206aa809d6",
+      "previewBytes": 76356,
+      "thumbnailBytes": 7776
+    },
+    {
+      "member": "Bellisk Icon.png",
+      "bytes": 32385,
+      "crc32": "90366ace",
+      "mode": 33206,
+      "id": "13617e08f4dbc973",
+      "sourceSha256": "85696832bf393f8755a6a0c0d6907ce07d2a0d5e80adc61ccd4eeca025cb0b3f",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "cb60e5765647d5ce93c1307df6ddea7d353a4fb7375e321f332061cb492f6a44",
+      "thumbnailSha256": "74ce870df1d6fb551b525f7cbcacfffbbaf12a7d1953f80d92f22efcfb4da82b",
+      "previewBytes": 8090,
+      "thumbnailBytes": 5338
+    },
+    {
+      "member": "Bellisk Jini Egg.png",
+      "bytes": 42119,
+      "crc32": "657d21ce",
+      "mode": 33206,
+      "id": "1315690ebd45f67e",
+      "sourceSha256": "afedaf12b793bbe7a0416bc622fa8f1bae71c7e6217f821acc25c5097a9729a5",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "081f2ec1290bdc883510ffeeac87574ca623fc248c001d42c7deb1a43ca391be",
+      "thumbnailSha256": "bb41c7a7684d0601226aaf7f5a9da2447d74e58a3d34047c3b4ac6dad69ef2d7",
+      "previewBytes": 7730,
+      "thumbnailBytes": 4424
+    },
+    {
+      "member": "Bellisk Jini Fruit.png",
+      "bytes": 55257,
+      "crc32": "55298f4e",
+      "mode": 33206,
+      "id": "1c9a106b17ac6e74",
+      "sourceSha256": "382649ad39ffdc4f02e99396cb05b923785d52b177ced1cead158b08a03e65cd",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "a8760756570937a92f6cda0824c4fc1372f0158fa004aa34dac328b9dc78b8a6",
+      "thumbnailSha256": "c89459bcffcc4da94df7b28d70ce0022fcfff132ef100ed4cee2f8c5f39749b8",
+      "previewBytes": 11044,
+      "thumbnailBytes": 5902
+    }
+  ],
+  "skipped": []
+}

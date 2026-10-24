@@ -1,0 +1,115 @@
+{
+  "familyId": "n79d7veamamrt0gfg91yf5i8",
+  "familyTitle": "Tita Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_44f0f464_Tita Evolution Line.zip",
+  "zipBytes": 681859,
+  "zipSha256": "c37e5c4e266389fa2b188e48f1cf796bb716de13ce882c99611675ec9ee9f652",
+  "coverId": "8eb176d0c47bb729",
+  "files": [
+    {
+      "id": "8eb176d0c47bb729",
+      "filename": "Tita Artwork.png",
+      "label": "Tita",
+      "kind": "artwork",
+      "url": "/bundles/n79d7veamamrt0gfg91yf5i8/8eb176d0c47bb729.webp",
+      "thumbnail": "/bundles/n79d7veamamrt0gfg91yf5i8/8eb176d0c47bb729-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "ed6804eccbe58909",
+      "filename": "Tita Icon.png",
+      "label": "Tita",
+      "kind": "icon",
+      "url": "/bundles/n79d7veamamrt0gfg91yf5i8/ed6804eccbe58909.webp",
+      "thumbnail": "/bundles/n79d7veamamrt0gfg91yf5i8/ed6804eccbe58909-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "f6efcf5918026bb4",
+      "filename": "Tita Jini Egg.png",
+      "label": "Tita",
+      "kind": "egg",
+      "url": "/bundles/n79d7veamamrt0gfg91yf5i8/f6efcf5918026bb4.webp",
+      "thumbnail": "/bundles/n79d7veamamrt0gfg91yf5i8/f6efcf5918026bb4-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "143624a0db386277",
+      "filename": "Tita Jini Fruit.png",
+      "label": "Tita",
+      "kind": "fruit",
+      "url": "/bundles/n79d7veamamrt0gfg91yf5i8/143624a0db386277.webp",
+      "thumbnail": "/bundles/n79d7veamamrt0gfg91yf5i8/143624a0db386277-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Tita Artwork.png",
+      "bytes": 559083,
+      "crc32": "804e96fe",
+      "mode": 33206,
+      "id": "8eb176d0c47bb729",
+      "sourceSha256": "56c60e0ab2a2407fd63cf63a30b5afcebec29a942cc1a88ca8930c30ba0ff52f",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "c4ee98d2cac62de01bd11a2fe883af4bcff8c9c39eeeb093987d0be90b65018f",
+      "thumbnailSha256": "7db9df163449fc810aa96defe215106e03f8e81ba07d3d0bff2ff69f4bca7c07",
+      "previewBytes": 75760,
+      "thumbnailBytes": 7532
+    },
+    {
+      "member": "Tita Icon.png",
+      "bytes": 29261,
+      "crc32": "a296adcc",
+      "mode": 33206,
+      "id": "ed6804eccbe58909",
+      "sourceSha256": "0154a80e771e31c801d3a60a702fc38f114382989105a7296870e4b6b5918bf9",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "c9e0d48514f2238539dad3c8bd9c9223884d32d0476224de9d999faf1654dd11",
+      "thumbnailSha256": "5eb0ce26563c5283551c1914603fe22be05cfa34fa42614d868971fbb4fc7313",
+      "previewBytes": 7270,
+      "thumbnailBytes": 4966
+    },
+    {
+      "member": "Tita Jini Egg.png",
+      "bytes": 42257,
+      "crc32": "706e1ff5",
+      "mode": 33206,
+      "id": "f6efcf5918026bb4",
+      "sourceSha256": "be4d6bf30716576f0db869eaa4414943164d7b22529bce192a41876c8db0989a",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "0d024b4aab3a354f997c8b6b29da959fa061a1864b6b248c7703d31cf104b972",
+      "thumbnailSha256": "a7239e815fd9fa92c0b7b08d8ecd3d2c211ead186870859619f4423d4f5247b6",
+      "previewBytes": 8042,
+      "thumbnailBytes": 4522
+    },
+    {
+      "member": "Tita Jini Fruit.png",
+      "bytes": 55078,
+      "crc32": "99193853",
+      "mode": 33206,
+      "id": "143624a0db386277",
+      "sourceSha256": "75d261e2ee537c825c93370d1252ea2d1085c0d4eb58b48b22ad92fa47d1cf6a",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "c904a1ea472733fd0113a07d6e1b0ebf3bda1fad50cdaa4054d4da30133d6380",
+      "thumbnailSha256": "d2ad67fc82d1e1c5bcfba12086ce6dc58ab3875bb6d9956ccdabc73227f11403",
+      "previewBytes": 11244,
+      "thumbnailBytes": 6024
+    }
+  ],
+  "skipped": []
+}

@@ -1,0 +1,115 @@
+{
+  "familyId": "uzzz8g4b80i29kdpnh0pnr3r",
+  "familyTitle": "Cracklew Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_2c21a123_Cracklew Evolution Line.zip",
+  "zipBytes": 480147,
+  "zipSha256": "36615583a6987127788b0bede273cc1baa030fa555b3d809dc2d3f1c70d913cb",
+  "coverId": "f35f0839f36ccade",
+  "files": [
+    {
+      "id": "f35f0839f36ccade",
+      "filename": "Cracklew Artwork.png",
+      "label": "Cracklew",
+      "kind": "artwork",
+      "url": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/f35f0839f36ccade.webp",
+      "thumbnail": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/f35f0839f36ccade-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "08d4d3fcdbd5ffcd",
+      "filename": "Cracklew Icon.png",
+      "label": "Cracklew",
+      "kind": "icon",
+      "url": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/08d4d3fcdbd5ffcd.webp",
+      "thumbnail": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/08d4d3fcdbd5ffcd-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "9e34fc65d71c4e7f",
+      "filename": "Cracklew Jini Egg.png",
+      "label": "Cracklew",
+      "kind": "egg",
+      "url": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/9e34fc65d71c4e7f.webp",
+      "thumbnail": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/9e34fc65d71c4e7f-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "19d48be9296481fb",
+      "filename": "Cracklew Jini Fruit.png",
+      "label": "Cracklew",
+      "kind": "fruit",
+      "url": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/19d48be9296481fb.webp",
+      "thumbnail": "/bundles/uzzz8g4b80i29kdpnh0pnr3r/19d48be9296481fb-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Cracklew Artwork.png",
+      "bytes": 366137,
+      "crc32": "40ef4691",
+      "mode": 33206,
+      "id": "f35f0839f36ccade",
+      "sourceSha256": "8420911375b0eec1ca6c30a47e8f12a55675947ec2f16cfe55f10326f5e91a98",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "f94523af86b51921925c5d2b7a4e5395057042d6be7296af55a8745197e4ce6f",
+      "thumbnailSha256": "e1116b48bbc4bdb60855a70734a0b4d74c2a1b086c63b508ec36af4a319da7f1",
+      "previewBytes": 80822,
+      "thumbnailBytes": 8362
+    },
+    {
+      "member": "Cracklew Icon.png",
+      "bytes": 25041,
+      "crc32": "86694e85",
+      "mode": 33206,
+      "id": "08d4d3fcdbd5ffcd",
+      "sourceSha256": "907aa091eaa807c911223ccb6abc57665029f71733a4907002b026ee85ae46b9",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "7d886b2460635ae781c8139505f127deffae897a28afaa35a20bc9d59dc938aa",
+      "thumbnailSha256": "7cd1c4fccd6b042696fcae8736830b62265e93afeec06480a2c3883ec5d0b041",
+      "previewBytes": 7168,
+      "thumbnailBytes": 5242
+    },
+    {
+      "member": "Cracklew Jini Egg.png",
+      "bytes": 39675,
+      "crc32": "388ec90b",
+      "mode": 33206,
+      "id": "9e34fc65d71c4e7f",
+      "sourceSha256": "1cbcb10d186be08fdc5fe75e4e612543dc3d4cc01d49d435901dd6dad409ef4c",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "ac16a942f17adcb78f6b3c8572f9aa67ca606601461366756ae77247fe1730a4",
+      "thumbnailSha256": "5c87505bea740d4a69d03898e2dbf74615c378ba75f450c5cf795ee15c9c4000",
+      "previewBytes": 8142,
+      "thumbnailBytes": 4496
+    },
+    {
+      "member": "Cracklew Jini Fruit.png",
+      "bytes": 54060,
+      "crc32": "173f6d92",
+      "mode": 33206,
+      "id": "19d48be9296481fb",
+      "sourceSha256": "c6dd88c9fa5768096de8cfc27d79979efbd18da73ccdbcb5eeaa2e1c34c20407",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "7a2f3380aff233b28b8a1cd2717cbc5d5982a2a9bde9ecf89d35b76bad77bdcb",
+      "thumbnailSha256": "5a514f343cc5ded3c4db1d06fa1190a492193e091c42328166e8affd6c64d79a",
+      "previewBytes": 10952,
+      "thumbnailBytes": 5764
+    }
+  ],
+  "skipped": []
+}

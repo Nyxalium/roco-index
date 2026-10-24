@@ -1,0 +1,115 @@
+{
+  "familyId": "bjfh26bogvmvnpy8ws08rnps",
+  "familyTitle": "Cony Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_604a47ac_Cony Evolution Line.zip",
+  "zipBytes": 663666,
+  "zipSha256": "263f674da4badf1589b014faff5e15d8acd43eda60f8ab7e848d1e29303d95ee",
+  "coverId": "8afa4bcc19055c03",
+  "files": [
+    {
+      "id": "8afa4bcc19055c03",
+      "filename": "Cony Artwork.png",
+      "label": "Cony",
+      "kind": "artwork",
+      "url": "/bundles/bjfh26bogvmvnpy8ws08rnps/8afa4bcc19055c03.webp",
+      "thumbnail": "/bundles/bjfh26bogvmvnpy8ws08rnps/8afa4bcc19055c03-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "a6a2d3cf57471877",
+      "filename": "Cony Icon.png",
+      "label": "Cony",
+      "kind": "icon",
+      "url": "/bundles/bjfh26bogvmvnpy8ws08rnps/a6a2d3cf57471877.webp",
+      "thumbnail": "/bundles/bjfh26bogvmvnpy8ws08rnps/a6a2d3cf57471877-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "4a54624eb97352e8",
+      "filename": "Cony Jini Egg.png",
+      "label": "Cony",
+      "kind": "egg",
+      "url": "/bundles/bjfh26bogvmvnpy8ws08rnps/4a54624eb97352e8.webp",
+      "thumbnail": "/bundles/bjfh26bogvmvnpy8ws08rnps/4a54624eb97352e8-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "0e249083c2c078d0",
+      "filename": "Cony Jini Fruit.png",
+      "label": "Cony",
+      "kind": "fruit",
+      "url": "/bundles/bjfh26bogvmvnpy8ws08rnps/0e249083c2c078d0.webp",
+      "thumbnail": "/bundles/bjfh26bogvmvnpy8ws08rnps/0e249083c2c078d0-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Cony Artwork.png",
+      "bytes": 534176,
+      "crc32": "b749d27a",
+      "mode": 33206,
+      "id": "8afa4bcc19055c03",
+      "sourceSha256": "5f27fdd0eff0c881736742ab73f76f079e711d3f7cbcf76769344ae7e8970d9a",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "a974ed782eec3e18cfed5bb14184fe3dd7f07dc4c82e9d8d4b2d172d4ac4eef2",
+      "thumbnailSha256": "69f490416e03ce87711a455e2070b4edce953303467d515b34d93f0266fcbba8",
+      "previewBytes": 78638,
+      "thumbnailBytes": 8242
+    },
+    {
+      "member": "Cony Icon.png",
+      "bytes": 31347,
+      "crc32": "d3c24b72",
+      "mode": 33206,
+      "id": "a6a2d3cf57471877",
+      "sourceSha256": "0012615af06a981adb927c77cb90828d895a7eb30b791e10f6964999acb65dd4",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "6ea5a7ed20006283d6f11d57b684e4396ec81987065d1e1e9a71adf3df055071",
+      "thumbnailSha256": "e0fd048152e324f82fbe932f9f754037ef00b9d5e98b462240c6016f6e49f793",
+      "previewBytes": 7844,
+      "thumbnailBytes": 5196
+    },
+    {
+      "member": "Cony Jini Egg.png",
+      "bytes": 43668,
+      "crc32": "b5c34c16",
+      "mode": 33206,
+      "id": "4a54624eb97352e8",
+      "sourceSha256": "ff07d40b51943eabaf7a09a82fce045884607e870d1d6d90033a87d6f3be9a18",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "6b75f4bf0810c1a9908b5148b2446b17fe936e3d5dfe04b3d49ee85aa69810fb",
+      "thumbnailSha256": "8c95e8248eb3d6bc6de62cbf6eb4c4230eb97ef795e43991b44ad51308524532",
+      "previewBytes": 8764,
+      "thumbnailBytes": 4750
+    },
+    {
+      "member": "Cony Jini Fruit.png",
+      "bytes": 58135,
+      "crc32": "d21f4da7",
+      "mode": 33206,
+      "id": "0e249083c2c078d0",
+      "sourceSha256": "989e3041d59aaa3d1f885071fa93d09b4402e2bb81eaf8d68dabc8521aea2d9e",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "c4afc9c92365ef9a776d7a6570e7994657a3e3059475dd1bf362ea9b6c6b91a9",
+      "thumbnailSha256": "edb0db0dc95d618e9ec03076eb24b03a501a4dfa94e5137327f4d750aaa674d5",
+      "previewBytes": 11780,
+      "thumbnailBytes": 6152
+    }
+  ],
+  "skipped": []
+}

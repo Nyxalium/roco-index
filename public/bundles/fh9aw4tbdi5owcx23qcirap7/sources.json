@@ -1,0 +1,115 @@
+{
+  "familyId": "fh9aw4tbdi5owcx23qcirap7",
+  "familyTitle": "Fizzguin Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_0cd8f074_Fizzguin Evolution Line.zip",
+  "zipBytes": 427009,
+  "zipSha256": "b4beb1a6ba0ab5fd04c58d4007579568fc8814513860ee3a3b5d65dcf581c557",
+  "coverId": "3887e74d4d174b4d",
+  "files": [
+    {
+      "id": "3887e74d4d174b4d",
+      "filename": "Fizzguin Artwork.png",
+      "label": "Fizzguin",
+      "kind": "artwork",
+      "url": "/bundles/fh9aw4tbdi5owcx23qcirap7/3887e74d4d174b4d.webp",
+      "thumbnail": "/bundles/fh9aw4tbdi5owcx23qcirap7/3887e74d4d174b4d-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "3bac1466e89a2103",
+      "filename": "Fizzguin Icon.png",
+      "label": "Fizzguin",
+      "kind": "icon",
+      "url": "/bundles/fh9aw4tbdi5owcx23qcirap7/3bac1466e89a2103.webp",
+      "thumbnail": "/bundles/fh9aw4tbdi5owcx23qcirap7/3bac1466e89a2103-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "2d1a68726967bd80",
+      "filename": "Fizzguin Jini Egg.png",
+      "label": "Fizzguin",
+      "kind": "egg",
+      "url": "/bundles/fh9aw4tbdi5owcx23qcirap7/2d1a68726967bd80.webp",
+      "thumbnail": "/bundles/fh9aw4tbdi5owcx23qcirap7/2d1a68726967bd80-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "13716a468e27f515",
+      "filename": "Fizzguin Jini Fruit.png",
+      "label": "Fizzguin",
+      "kind": "fruit",
+      "url": "/bundles/fh9aw4tbdi5owcx23qcirap7/13716a468e27f515.webp",
+      "thumbnail": "/bundles/fh9aw4tbdi5owcx23qcirap7/13716a468e27f515-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Fizzguin Artwork.png",
+      "bytes": 302304,
+      "crc32": "f5bbb7d0",
+      "mode": 33206,
+      "id": "3887e74d4d174b4d",
+      "sourceSha256": "1e18e2ec2e042f16b211ee1379864b1e51328293be7b1dc6fd2612ae7a706e57",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "51407a3298846e5077b00d1732e6ebeecaefb93c71d43ceb22fa6f6f8a3ce986",
+      "thumbnailSha256": "ccedea87c9d441fd4df72fd090e3350409d08450013c09f40297bffb2c4f4164",
+      "previewBytes": 63456,
+      "thumbnailBytes": 6998
+    },
+    {
+      "member": "Fizzguin Icon.png",
+      "bytes": 34180,
+      "crc32": "e7ff4540",
+      "mode": 33206,
+      "id": "3bac1466e89a2103",
+      "sourceSha256": "111bd5abd2124e6f81c8b53c1d428ed288f72e74b7ce59e282dadeeca63864bc",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "fb4a574774a7b6a0cb723c79a0d9972ccf9cebf8ba59c459389a47af9834a2e3",
+      "thumbnailSha256": "1b990d6be1369afa133b97dacac1b32df341c9df0e425e6b75714fa403512005",
+      "previewBytes": 9348,
+      "thumbnailBytes": 6290
+    },
+    {
+      "member": "Fizzguin Jini Egg.png",
+      "bytes": 40747,
+      "crc32": "6d26326c",
+      "mode": 33206,
+      "id": "2d1a68726967bd80",
+      "sourceSha256": "940afd0ca79b0784f14b3f08807249691e382c550593617c6b9f39c27fda8cb8",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "df8fa1b96c33f20e722fb6b20e246e068aed05331b9cf4f7edc4d0b2f03bb79c",
+      "thumbnailSha256": "9a041a8236c2fa61a80fed982a7390ec8d00aa0bac8bdf476bd90a5ec14d56a8",
+      "previewBytes": 8208,
+      "thumbnailBytes": 4730
+    },
+    {
+      "member": "Fizzguin Jini Fruit.png",
+      "bytes": 55884,
+      "crc32": "43c9112d",
+      "mode": 33206,
+      "id": "13716a468e27f515",
+      "sourceSha256": "910fc3e88ec501f0aac60219c78afcf550cf4876b0642d7a074e91c3b50c3329",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "cf988266c8b78d0d038fef365bcdce01c149cedced15827277dc206f0174a01d",
+      "thumbnailSha256": "1d47ca8375fb1f2d7f143ea042be53e3157a282c2a8a2ddc0b697123874b0944",
+      "previewBytes": 11158,
+      "thumbnailBytes": 6070
+    }
+  ],
+  "skipped": []
+}

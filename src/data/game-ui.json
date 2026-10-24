@@ -1,0 +1,43 @@
+{
+  "site": "https://roco.world",
+  "catalogVersion": "f5298db5f7e9",
+  "elements": {
+    "普通": "/game-ui/pet_type/0001_2_ui_icon_species_02_png.webp",
+    "草": "/game-ui/pet_type/0002_3_ui_icon_species_03_png.webp",
+    "火": "/game-ui/pet_type/0003_4_ui_icon_species_04_png.webp",
+    "水": "/game-ui/pet_type/0004_5_ui_icon_species_05_png.webp",
+    "光": "/game-ui/pet_type/0005_6_ui_icon_species_06_png.webp",
+    "地": "/game-ui/pet_type/0006_8_ui_icon_species_08_png.webp",
+    "冰": "/game-ui/pet_type/0007_9_ui_icon_species_09_png.webp",
+    "龙": "/game-ui/pet_type/0008_10_ui_icon_species_10_png.webp",
+    "电": "/game-ui/pet_type/0009_11_ui_icon_species_11_png.webp",
+    "毒": "/game-ui/pet_type/0010_12_ui_icon_species_12_png.webp",
+    "虫": "/game-ui/pet_type/0011_13_ui_icon_species_13_png.webp",
+    "武": "/game-ui/pet_type/0012_14_ui_icon_species_14_png.webp",
+    "翼": "/game-ui/pet_type/0013_15_ui_icon_species_15_png.webp",
+    "萌": "/game-ui/pet_type/0014_16_ui_icon_species_16_png.webp",
+    "幽": "/game-ui/pet_type/0015_17_ui_icon_species_17_png.webp",
+    "恶": "/game-ui/pet_type/0016_18_ui_icon_species_18_png.webp",
+    "机械": "/game-ui/pet_type/0017_19_ui_icon_species_19_png.webp",
+    "幻": "/game-ui/pet_type/0018_20_ui_icon_species_20_png.webp"
+  },
+  "stats": [
+    "/game-ui/pet_stat/0037_1_ui_pet_attribute_01_png.webp",
+    "/game-ui/pet_stat/0038_2_ui_pet_attribute_02_png.webp",
+    "/game-ui/pet_stat/0039_3_ui_pet_attribute_04_png.webp",
+    "/game-ui/pet_stat/0040_4_ui_pet_attribute_03_png.webp",
+    "/game-ui/pet_stat/0041_5_ui_pet_attribute_05_png.webp",
+    "/game-ui/pet_stat/0042_6_ui_pet_attribute_06_png.webp"
+  ],
+  "skillCategories": {
+    "物攻": "/game-ui/skill_category/0043_physical_AT_ATTACK_png.webp",
+    "魔攻": "/game-ui/skill_category/0044_magic_ui_pet_attribute_04_png.webp",
+    "状态": "/game-ui/skill_category/0045_status_AT_CLASSIFICATION_png.webp",
+    "防御": "/game-ui/skill_category/0046_defense_AT_DEFENSE_png.webp"
+  },
+  "energy": "/game-ui/battle_pet_system/0082_AT_STAR_ENERGY_png_AT_STAR_ENERGY_png.webp",
+  "shiny": {
+    "img_yisetubian_png": "/game-ui/pet_shiny_symbol/0047_img_yisetubian_png_img_yisetubian_png.webp",
+    "img_yisexuancai_png": "/game-ui/pet_shiny_symbol/0048_img_yisexuancai_png_img_yisexuancai_png.webp"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "familyId": "xzvlp8fqbbog4pto87co4z29",
+  "familyTitle": "Dimo Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_eb4e32d1_Dimo Evolution Line.zip",
+  "zipBytes": 529471,
+  "zipSha256": "aae1d19ee02d2fe1a214819ff207600e02515bbb5af9bfd4c72be5526e84428e",
+  "coverId": "8f945b154728105b",
+  "files": [
+    {
+      "id": "8f945b154728105b",
+      "filename": "Dimo Artwork.png",
+      "label": "Dimo",
+      "kind": "artwork",
+      "url": "/bundles/xzvlp8fqbbog4pto87co4z29/8f945b154728105b.webp",
+      "thumbnail": "/bundles/xzvlp8fqbbog4pto87co4z29/8f945b154728105b-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "be3ee4522080a2e3",
+      "filename": "Dimo Icon.png",
+      "label": "Dimo",
+      "kind": "icon",
+      "url": "/bundles/xzvlp8fqbbog4pto87co4z29/be3ee4522080a2e3.webp",
+      "thumbnail": "/bundles/xzvlp8fqbbog4pto87co4z29/be3ee4522080a2e3-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "53756f9cc3417667",
+      "filename": "Dimo Jini Egg.png",
+      "label": "Dimo",
+      "kind": "egg",
+      "url": "/bundles/xzvlp8fqbbog4pto87co4z29/53756f9cc3417667.webp",
+      "thumbnail": "/bundles/xzvlp8fqbbog4pto87co4z29/53756f9cc3417667-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Dimo Artwork.png",
+      "bytes": 469274,
+      "crc32": "550af72e",
+      "mode": 33206,
+      "id": "8f945b154728105b",
+      "sourceSha256": "5a776b072825501c06e7552a27e65123ad10c4a0b79f89bbaa4fd003283b03cf",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "09169a78dda69557fd69aabee224ca12fa3db66ffc6e36e70f10838be7fd1ed9",
+      "thumbnailSha256": "7a4ba10fe2c8be9e174d8011938c9cf8a3b552a4bbf582959c2d36b320372fd9",
+      "previewBytes": 61668,
+      "thumbnailBytes": 7222
+    },
+    {
+      "member": "Dimo Icon.png",
+      "bytes": 25277,
+      "crc32": "75970550",
+      "mode": 33206,
+      "id": "be3ee4522080a2e3",
+      "sourceSha256": "b4c3d0cf911247e90297e7233321ae9bd8f67b9e236645b2e973f0ffa7064ea7",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "60375efd419551f505aa6adec1e0ec27451e0d6fb27ddeef96d6ceb12f3619db",
+      "thumbnailSha256": "be2b31c74e12db6c36dd282e8c99277e46469378725e89c57ef81ee5fd3a87b6",
+      "previewBytes": 7034,
+      "thumbnailBytes": 5022
+    },
+    {
+      "member": "Dimo Jini Egg.png",
+      "bytes": 38928,
+      "crc32": "f911b63c",
+      "mode": 33206,
+      "id": "53756f9cc3417667",
+      "sourceSha256": "7dfb8ddc5102c3c83eff16fd3b5e9004f76cb4b9eb109e45f51badd5e7258dc3",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "9338e816a6715af44c4d5f4494e928a1cbc1f91a5df07871a3f85b3580541908",
+      "thumbnailSha256": "ea5986d5e2f06d50be2e5ef7cec3d116deb3a5e938ab44adc3012a0693bf6482",
+      "previewBytes": 8198,
+      "thumbnailBytes": 4644
+    }
+  ],
+  "skipped": []
+}

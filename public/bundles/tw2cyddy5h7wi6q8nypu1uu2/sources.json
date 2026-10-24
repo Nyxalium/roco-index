@@ -1,0 +1,115 @@
+{
+  "familyId": "tw2cyddy5h7wi6q8nypu1uu2",
+  "familyTitle": "Maskit Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_86c2e6a7_Maskit Evolution Line.zip",
+  "zipBytes": 566901,
+  "zipSha256": "dafcd8a60ae5a1c8e4a0b54eb79f429fd4ff790a0fdeff4221af7b7be129fb41",
+  "coverId": "10e34ea8110a4aa5",
+  "files": [
+    {
+      "id": "10e34ea8110a4aa5",
+      "filename": "Maskit Artwork.png",
+      "label": "Maskit",
+      "kind": "artwork",
+      "url": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/10e34ea8110a4aa5.webp",
+      "thumbnail": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/10e34ea8110a4aa5-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "afe19ac1064cee5e",
+      "filename": "Maskit Icon.png",
+      "label": "Maskit",
+      "kind": "icon",
+      "url": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/afe19ac1064cee5e.webp",
+      "thumbnail": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/afe19ac1064cee5e-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "76381baf21064e65",
+      "filename": "Maskit Jini Egg.png",
+      "label": "Maskit",
+      "kind": "egg",
+      "url": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/76381baf21064e65.webp",
+      "thumbnail": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/76381baf21064e65-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "4225b7bc11460ddb",
+      "filename": "Maskit Jini Fruit.png",
+      "label": "Maskit",
+      "kind": "fruit",
+      "url": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/4225b7bc11460ddb.webp",
+      "thumbnail": "/bundles/tw2cyddy5h7wi6q8nypu1uu2/4225b7bc11460ddb-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Maskit Artwork.png",
+      "bytes": 454868,
+      "crc32": "d2d3af22",
+      "mode": 33206,
+      "id": "10e34ea8110a4aa5",
+      "sourceSha256": "5ac32560613f067e98b241e9af175423bed8015aeca4af7b69a8e222cea7dd37",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "ced58103a58f47157aafa24bbba5604efdf429c62ed139d269ff9826cb1af483",
+      "thumbnailSha256": "1c5193e10ed49e79e23f891cae01ee3ac47d0e8f955e35a5adfc018f9af324c5",
+      "previewBytes": 58592,
+      "thumbnailBytes": 6788
+    },
+    {
+      "member": "Maskit Icon.png",
+      "bytes": 22364,
+      "crc32": "a945697b",
+      "mode": 33206,
+      "id": "afe19ac1064cee5e",
+      "sourceSha256": "83e7ef7513e56f8209c5c359ca32f490baf179c31721ac419b47c62ff8ed2def",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "4065dad2a4b4385f876acd1d1a7e8518f2183b79ba2e68c1274e7cdba7852d02",
+      "thumbnailSha256": "c9b26773ae90384bbfac3bc52e1439177652f4b8557a95e7de5591f987bcf556",
+      "previewBytes": 5786,
+      "thumbnailBytes": 4484
+    },
+    {
+      "member": "Maskit Jini Egg.png",
+      "bytes": 39175,
+      "crc32": "c6c0f515",
+      "mode": 33206,
+      "id": "76381baf21064e65",
+      "sourceSha256": "d63010f11d49f60d841beab78ce83dac8c9077302f9076adfce61ee0fe9b71e4",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "b3c67a206c1e5c0974636585778fa73debbaa6d40f972109055fe313db4aa30a",
+      "thumbnailSha256": "900ba8aa178ccd27d9b05408f09d7f529b4bfb3100e7873d167421e63e92ed61",
+      "previewBytes": 7470,
+      "thumbnailBytes": 4294
+    },
+    {
+      "member": "Maskit Jini Fruit.png",
+      "bytes": 54364,
+      "crc32": "b39d1518",
+      "mode": 33206,
+      "id": "4225b7bc11460ddb",
+      "sourceSha256": "fbc9762bed1c7f8eff41d56f9cae6633249dee7199d8852b841ea4c370e2e65b",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "d2b35f2a76758f1919d571fe5cce990df994541ccd9ba37921f94be2016012e0",
+      "thumbnailSha256": "0f4be33be037e8eddbbd5e14185ef81cea7d3719013be07eb2a039e876f5a099",
+      "previewBytes": 10692,
+      "thumbnailBytes": 5710
+    }
+  ],
+  "skipped": []
+}

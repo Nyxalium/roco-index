@@ -1,0 +1,115 @@
+{
+  "familyId": "ddijigbjcqdonthui19jb7u7",
+  "familyTitle": "Bractini Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_1080170d_Bractini Evolution Line.zip",
+  "zipBytes": 591811,
+  "zipSha256": "d587e4ea33f1be029faa766788226088e72457dcfd14d549e97d0e2512b2065d",
+  "coverId": "360e2e7de3298a78",
+  "files": [
+    {
+      "id": "360e2e7de3298a78",
+      "filename": "Bractini Artwork.png",
+      "label": "Bractini",
+      "kind": "artwork",
+      "url": "/bundles/ddijigbjcqdonthui19jb7u7/360e2e7de3298a78.webp",
+      "thumbnail": "/bundles/ddijigbjcqdonthui19jb7u7/360e2e7de3298a78-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "52dbb0f0ae390a77",
+      "filename": "Bractini Icon.png",
+      "label": "Bractini",
+      "kind": "icon",
+      "url": "/bundles/ddijigbjcqdonthui19jb7u7/52dbb0f0ae390a77.webp",
+      "thumbnail": "/bundles/ddijigbjcqdonthui19jb7u7/52dbb0f0ae390a77-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "0fec2c0acd2ca3b1",
+      "filename": "Bractini Jini Egg.png",
+      "label": "Bractini",
+      "kind": "egg",
+      "url": "/bundles/ddijigbjcqdonthui19jb7u7/0fec2c0acd2ca3b1.webp",
+      "thumbnail": "/bundles/ddijigbjcqdonthui19jb7u7/0fec2c0acd2ca3b1-thumb.webp",
+      "width": 256,
+      "height": 255
+    },
+    {
+      "id": "15f0cc4dd9436829",
+      "filename": "Bractini Jini Fruit.png",
+      "label": "Bractini",
+      "kind": "fruit",
+      "url": "/bundles/ddijigbjcqdonthui19jb7u7/15f0cc4dd9436829.webp",
+      "thumbnail": "/bundles/ddijigbjcqdonthui19jb7u7/15f0cc4dd9436829-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Bractini Artwork.png",
+      "bytes": 473039,
+      "crc32": "ed7984be",
+      "mode": 33206,
+      "id": "360e2e7de3298a78",
+      "sourceSha256": "d16300b115acda10ef40f6d224fa1152e0eaad0b677190158a140a815694747c",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "937d640fd80dbf994187347ad5d7ebc2e4c3a518795380bf10a439bb093cf9ff",
+      "thumbnailSha256": "c5d4d378135fb2adbce68a413a5da013bd52b48211ddaf80fa1967a3634b6ce0",
+      "previewBytes": 62544,
+      "thumbnailBytes": 6842
+    },
+    {
+      "member": "Bractini Icon.png",
+      "bytes": 25440,
+      "crc32": "b0b4f861",
+      "mode": 33206,
+      "id": "52dbb0f0ae390a77",
+      "sourceSha256": "6416dd77298b34c95e0b127720a773399190ca55ce59d01d543dc39d5903c8c8",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "0329dfd13cc1371f42b6535df2448d456150ec57d97d9336cb8d73283b4acb6a",
+      "thumbnailSha256": "59135d7b72747b19e8c022b3c93fc380728f31ba70fa94b3c4b44f4876c4764c",
+      "previewBytes": 7102,
+      "thumbnailBytes": 4930
+    },
+    {
+      "member": "Bractini Jini Egg.png",
+      "bytes": 41692,
+      "crc32": "f1e6c425",
+      "mode": 33206,
+      "id": "0fec2c0acd2ca3b1",
+      "sourceSha256": "0541f6667bf9aca70a0ab5938910b9072c6e7fe53d9c112fbe3a87ff241b05b6",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "869773654743f9e8f1cd3bea7e3dcdeea6000bd6f626fbd13a4109e0dbf079c2",
+      "thumbnailSha256": "473bcbce3c48e39c549fa303e06fc6c64ed47264f03e372073d6a02c815cb19f",
+      "previewBytes": 7642,
+      "thumbnailBytes": 4318
+    },
+    {
+      "member": "Bractini Jini Fruit.png",
+      "bytes": 56062,
+      "crc32": "f3ece987",
+      "mode": 33206,
+      "id": "15f0cc4dd9436829",
+      "sourceSha256": "6bd9a0797e9ce98ec61696805ef64d8a197676c8b2384bdd537a6a8ba8232759",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "3523bc3a12c835a2dd23e7e11a7c7d5b4ff4feb9a90896478a72845ae61c52e4",
+      "thumbnailSha256": "3b0341af10a45738682be22ce348dddd0119068f9e4ca0b9c599b6eb2d28b3ad",
+      "previewBytes": 10866,
+      "thumbnailBytes": 5854
+    }
+  ],
+  "skipped": []
+}

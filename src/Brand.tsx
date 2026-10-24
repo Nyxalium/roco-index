@@ -1,0 +1,3 @@
+export default function Brand({ compact = false }: { compact?: boolean }) {
+  return <span className={`brand ${compact ? 'compact' : ''}`}><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M8 29C8 15 16 5 24 5s16 10 16 24c0 10-7 16-16 16S8 39 8 29Z" fill="currentColor" /><path d="m6 10 14 12H8ZM42 10 28 22h12Z" fill="currentColor" /><g className="brand-eyes"><ellipse cx="19" cy="28" rx="2.4" ry="3.5" fill="var(--paper)" /><ellipse cx="30" cy="28" rx="2.4" ry="3.5" fill="var(--paper)" /></g><path d="M21 36q4 4 8 0" fill="none" stroke="var(--paper)" strokeWidth="2" strokeLinecap="round" /></svg><span>roco<span className="brand-second">index</span></span></span>;
+}

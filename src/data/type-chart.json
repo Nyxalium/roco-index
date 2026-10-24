@@ -1,0 +1,228 @@
+{
+  "source": "Evenstar-tools/roco-calculator · built-in CN reference model",
+  "licence": "CC BY-NC-SA 4.0 for the community reference table; MIT for the source software.",
+  "dualWeaknessCap": 3,
+  "relations": {
+    "普通": {
+      "strong": [],
+      "resisted": [
+        "地",
+        "幽",
+        "机械"
+      ]
+    },
+    "草": {
+      "strong": [
+        "水",
+        "光",
+        "地"
+      ],
+      "resisted": [
+        "火",
+        "龙",
+        "毒",
+        "虫",
+        "翼",
+        "机械"
+      ]
+    },
+    "火": {
+      "strong": [
+        "草",
+        "冰",
+        "虫",
+        "机械"
+      ],
+      "resisted": [
+        "水",
+        "地",
+        "龙"
+      ]
+    },
+    "水": {
+      "strong": [
+        "火",
+        "地",
+        "机械"
+      ],
+      "resisted": [
+        "草",
+        "冰",
+        "龙"
+      ]
+    },
+    "光": {
+      "strong": [
+        "幽",
+        "恶"
+      ],
+      "resisted": [
+        "草",
+        "冰"
+      ]
+    },
+    "地": {
+      "strong": [
+        "火",
+        "冰",
+        "电",
+        "毒"
+      ],
+      "resisted": [
+        "草",
+        "武"
+      ]
+    },
+    "冰": {
+      "strong": [
+        "草",
+        "地",
+        "龙",
+        "翼"
+      ],
+      "resisted": [
+        "火",
+        "冰",
+        "机械"
+      ]
+    },
+    "龙": {
+      "strong": [
+        "龙"
+      ],
+      "resisted": [
+        "机械"
+      ]
+    },
+    "电": {
+      "strong": [
+        "水",
+        "翼"
+      ],
+      "resisted": [
+        "草",
+        "地",
+        "龙",
+        "电"
+      ]
+    },
+    "毒": {
+      "strong": [
+        "草",
+        "萌"
+      ],
+      "resisted": [
+        "地",
+        "毒",
+        "幽",
+        "机械"
+      ]
+    },
+    "虫": {
+      "strong": [
+        "草",
+        "恶",
+        "幻"
+      ],
+      "resisted": [
+        "火",
+        "毒",
+        "武",
+        "翼",
+        "萌",
+        "幽",
+        "机械"
+      ]
+    },
+    "武": {
+      "strong": [
+        "普通",
+        "地",
+        "冰",
+        "恶",
+        "机械"
+      ],
+      "resisted": [
+        "毒",
+        "虫",
+        "翼",
+        "萌",
+        "幽",
+        "幻"
+      ]
+    },
+    "翼": {
+      "strong": [
+        "草",
+        "虫",
+        "武"
+      ],
+      "resisted": [
+        "地",
+        "龙",
+        "电",
+        "机械"
+      ]
+    },
+    "萌": {
+      "strong": [
+        "龙",
+        "武",
+        "恶"
+      ],
+      "resisted": [
+        "火",
+        "毒",
+        "机械"
+      ]
+    },
+    "幽": {
+      "strong": [
+        "光",
+        "幽",
+        "幻"
+      ],
+      "resisted": [
+        "普通",
+        "恶"
+      ]
+    },
+    "恶": {
+      "strong": [
+        "毒",
+        "萌",
+        "幽"
+      ],
+      "resisted": [
+        "光",
+        "武",
+        "恶"
+      ]
+    },
+    "机械": {
+      "strong": [
+        "地",
+        "冰",
+        "萌"
+      ],
+      "resisted": [
+        "火",
+        "水",
+        "电",
+        "机械"
+      ]
+    },
+    "幻": {
+      "strong": [
+        "毒",
+        "武"
+      ],
+      "resisted": [
+        "光",
+        "机械",
+        "幻"
+      ]
+    }
+  },
+  "url": "https://github.com/Evenstar-tools/roco-calculator/blob/2c7f46373af66fc74a1cded101e8a27a91b8e342/src/domain/type-chart.js"
+}

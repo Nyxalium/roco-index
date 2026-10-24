@@ -1,0 +1,115 @@
+{
+  "familyId": "p86dv290g8c51f8iln07fxol",
+  "familyTitle": "Creeble Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_78eeb774_Creeble Evolution Line.zip",
+  "zipBytes": 646645,
+  "zipSha256": "fb52de86055b2ea46de8db09c35e69989f3b93e0d8b1931550d5ffc7b7e037a9",
+  "coverId": "9fca84230e41529a",
+  "files": [
+    {
+      "id": "9fca84230e41529a",
+      "filename": "Creeble Artwork.png",
+      "label": "Creeble",
+      "kind": "artwork",
+      "url": "/bundles/p86dv290g8c51f8iln07fxol/9fca84230e41529a.webp",
+      "thumbnail": "/bundles/p86dv290g8c51f8iln07fxol/9fca84230e41529a-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "fac7c80ccfab80f2",
+      "filename": "Creeble Icon.png",
+      "label": "Creeble",
+      "kind": "icon",
+      "url": "/bundles/p86dv290g8c51f8iln07fxol/fac7c80ccfab80f2.webp",
+      "thumbnail": "/bundles/p86dv290g8c51f8iln07fxol/fac7c80ccfab80f2-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "b6c4975d870a093f",
+      "filename": "Creeble Jini Egg.png",
+      "label": "Creeble",
+      "kind": "egg",
+      "url": "/bundles/p86dv290g8c51f8iln07fxol/b6c4975d870a093f.webp",
+      "thumbnail": "/bundles/p86dv290g8c51f8iln07fxol/b6c4975d870a093f-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "8a260123d2b71942",
+      "filename": "Creeble Jini Fruit.png",
+      "label": "Creeble",
+      "kind": "fruit",
+      "url": "/bundles/p86dv290g8c51f8iln07fxol/8a260123d2b71942.webp",
+      "thumbnail": "/bundles/p86dv290g8c51f8iln07fxol/8a260123d2b71942-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Creeble Artwork.png",
+      "bytes": 538112,
+      "crc32": "893efd61",
+      "mode": 33206,
+      "id": "9fca84230e41529a",
+      "sourceSha256": "dc511d9e77d46f834b863a66bba27f356198a9179feabda89a3b0351a6c7c182",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "effea03d390521e29d8651f386851e5ebe17710c42f09114c9df4097fd06b123",
+      "thumbnailSha256": "9f20b9cb599f38df346923a7f61bd6d5b2941f4b28b9a80aaedf1d80b54443ff",
+      "previewBytes": 69070,
+      "thumbnailBytes": 7256
+    },
+    {
+      "member": "Creeble Icon.png",
+      "bytes": 25298,
+      "crc32": "d69ab5c5",
+      "mode": 33206,
+      "id": "fac7c80ccfab80f2",
+      "sourceSha256": "d679434b59d7b93cc6903f0b55c821f96bd4f4c1dde32779c6931a7482048a78",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "c7a5acdad364b07b3419492488f80d22a49468c175b16a667c388cb8e483fc68",
+      "thumbnailSha256": "7efcc9f624a44d0b13c925b2651d3600799e4e5f3f7135d24a6377c2fda68f22",
+      "previewBytes": 6478,
+      "thumbnailBytes": 4826
+    },
+    {
+      "member": "Creeble Jini Egg.png",
+      "bytes": 36340,
+      "crc32": "ab0d18d7",
+      "mode": 33206,
+      "id": "b6c4975d870a093f",
+      "sourceSha256": "5d713620ab52595ce3d107e171953c33245a3b010f2e5815a8b28effd6999bf1",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "82c71e1c8aa13524bb2f5f5ed84befdc8bc3171b1f9645d6d1f4caf81c4fa964",
+      "thumbnailSha256": "0d55b48ff78703e6d92ea9782ff35aae41d07f23c6febd676c6fb778e35cbfd3",
+      "previewBytes": 6824,
+      "thumbnailBytes": 3970
+    },
+    {
+      "member": "Creeble Jini Fruit.png",
+      "bytes": 51044,
+      "crc32": "d6070902",
+      "mode": 33206,
+      "id": "8a260123d2b71942",
+      "sourceSha256": "002976c7d4908826217d194c1753ab92e33456491624c328218d5ff65b6793b6",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "d95ceecc83527acaf8e78a51073eb65634159fd03080add0f6b959cb5818567d",
+      "thumbnailSha256": "5b20355c294a69e31f8f9eddbcb3da3664a223bcac2e17a1894f73517f12d6a4",
+      "previewBytes": 10166,
+      "thumbnailBytes": 5520
+    }
+  ],
+  "skipped": []
+}

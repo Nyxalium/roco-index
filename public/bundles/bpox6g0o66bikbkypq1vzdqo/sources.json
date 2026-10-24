@@ -1,0 +1,115 @@
+{
+  "familyId": "bpox6g0o66bikbkypq1vzdqo",
+  "familyTitle": "Mimbit Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_af0fbb2a_Mimbit Evolution Line.zip",
+  "zipBytes": 541428,
+  "zipSha256": "f27e3cdd0afa86af19940d92bf57015396485d25b197002eb063ea8c77fae554",
+  "coverId": "a35d8a567519ce0b",
+  "files": [
+    {
+      "id": "a35d8a567519ce0b",
+      "filename": "Mimbit Artwork.png",
+      "label": "Mimbit",
+      "kind": "artwork",
+      "url": "/bundles/bpox6g0o66bikbkypq1vzdqo/a35d8a567519ce0b.webp",
+      "thumbnail": "/bundles/bpox6g0o66bikbkypq1vzdqo/a35d8a567519ce0b-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "59ba3457b174521b",
+      "filename": "Mimbit Icon.png",
+      "label": "Mimbit",
+      "kind": "icon",
+      "url": "/bundles/bpox6g0o66bikbkypq1vzdqo/59ba3457b174521b.webp",
+      "thumbnail": "/bundles/bpox6g0o66bikbkypq1vzdqo/59ba3457b174521b-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "81fb4f18105b0498",
+      "filename": "Mimbit Jini Egg.png",
+      "label": "Mimbit",
+      "kind": "egg",
+      "url": "/bundles/bpox6g0o66bikbkypq1vzdqo/81fb4f18105b0498.webp",
+      "thumbnail": "/bundles/bpox6g0o66bikbkypq1vzdqo/81fb4f18105b0498-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "76e0560843662721",
+      "filename": "Mimbit Jini Fruit.png",
+      "label": "Mimbit",
+      "kind": "fruit",
+      "url": "/bundles/bpox6g0o66bikbkypq1vzdqo/76e0560843662721.webp",
+      "thumbnail": "/bundles/bpox6g0o66bikbkypq1vzdqo/76e0560843662721-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Mimbit Artwork.png",
+      "bytes": 421078,
+      "crc32": "2a8f1475",
+      "mode": 33206,
+      "id": "a35d8a567519ce0b",
+      "sourceSha256": "b7b572945cd0c82b89caea1577611bcdc3d78ebc3117d42b5b58610e08d938d1",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "507e4ab9e75db3b59f69783554de7790ca8289761e95e5038cc03713a3eed4c1",
+      "thumbnailSha256": "51deb23d0c9b6083b65433ee3d6767a1de6673337ea53f52120bd5ab7b6ec0a3",
+      "previewBytes": 68094,
+      "thumbnailBytes": 6940
+    },
+    {
+      "member": "Mimbit Icon.png",
+      "bytes": 26760,
+      "crc32": "298732ad",
+      "mode": 33206,
+      "id": "59ba3457b174521b",
+      "sourceSha256": "9717eac53fb08455ec8e95e76592884de645ce0123a44d434cbfc0295308d5e8",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "120976debebd365b0f6a630d4fb549766be7089dbdf2dc010d581acea6c84568",
+      "thumbnailSha256": "8aab15814ad0e6d348677a467bd0d869446c2501eee20ee9b1475ea5916a18a5",
+      "previewBytes": 7854,
+      "thumbnailBytes": 5492
+    },
+    {
+      "member": "Mimbit Jini Egg.png",
+      "bytes": 42464,
+      "crc32": "321e6944",
+      "mode": 33206,
+      "id": "81fb4f18105b0498",
+      "sourceSha256": "b2508d3a84c5c0e7a630b37e0c7d61f7ebc8dceaef4671e6f95855b214bc7877",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "2cbcd6675945906f05607f6d9f7c1941eb1d05d7f9f4bac2bc84985d9251894b",
+      "thumbnailSha256": "a0e41c73b5c5a845bf0b51011e3c21d25f03d0468906c6f3ab7353c461aae83f",
+      "previewBytes": 8756,
+      "thumbnailBytes": 4758
+    },
+    {
+      "member": "Mimbit Jini Fruit.png",
+      "bytes": 56609,
+      "crc32": "1861d0b2",
+      "mode": 33206,
+      "id": "76e0560843662721",
+      "sourceSha256": "6e727f50c589834a11acada24be734e8728ae5b4947b1a0f83eff675e3b060c9",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "1b6f1bb073b11116f3a7cc510f7874072b6e3293bc7338bcb837e6ebb265561d",
+      "thumbnailSha256": "4be2099fa2366d84e8fc71c3ab65af9757581c87be669fbd20e9a9267141eea7",
+      "previewBytes": 11558,
+      "thumbnailBytes": 6032
+    }
+  ],
+  "skipped": []
+}

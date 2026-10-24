@@ -1,0 +1,115 @@
+{
+  "familyId": "msjy2p4muxayk797b7caxkf6",
+  "familyTitle": "Rayre Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_12ffd94c_Rayre Evolution Line.zip",
+  "zipBytes": 514477,
+  "zipSha256": "e37dbcbee9db56c1780533c65c2e299f204196a2e1d58148e6eb62a1fc0458c3",
+  "coverId": "7283c5ab30499b65",
+  "files": [
+    {
+      "id": "7283c5ab30499b65",
+      "filename": "Rayre Artwork.png",
+      "label": "Rayre",
+      "kind": "artwork",
+      "url": "/bundles/msjy2p4muxayk797b7caxkf6/7283c5ab30499b65.webp",
+      "thumbnail": "/bundles/msjy2p4muxayk797b7caxkf6/7283c5ab30499b65-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "c1242350fbdbecd7",
+      "filename": "Rayre Icon.png",
+      "label": "Rayre",
+      "kind": "icon",
+      "url": "/bundles/msjy2p4muxayk797b7caxkf6/c1242350fbdbecd7.webp",
+      "thumbnail": "/bundles/msjy2p4muxayk797b7caxkf6/c1242350fbdbecd7-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "7a536a1e99459d14",
+      "filename": "Rayre Jini Egg.png",
+      "label": "Rayre",
+      "kind": "egg",
+      "url": "/bundles/msjy2p4muxayk797b7caxkf6/7a536a1e99459d14.webp",
+      "thumbnail": "/bundles/msjy2p4muxayk797b7caxkf6/7a536a1e99459d14-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "112a13fdc2d48ec5",
+      "filename": "Rayre Jini Fruit.png",
+      "label": "Rayre",
+      "kind": "fruit",
+      "url": "/bundles/msjy2p4muxayk797b7caxkf6/112a13fdc2d48ec5.webp",
+      "thumbnail": "/bundles/msjy2p4muxayk797b7caxkf6/112a13fdc2d48ec5-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Rayre Artwork.png",
+      "bytes": 395759,
+      "crc32": "1dc49b75",
+      "mode": 33206,
+      "id": "7283c5ab30499b65",
+      "sourceSha256": "1527f9816a9aa644090a1ad47d3e35d0c7f01351ee75d3af165681983900f25d",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "21f58d99118dc595d32bb2de7d7a7c180ec804eca951591cd1cabdbf6dd3644f",
+      "thumbnailSha256": "4a4efb29d3077731a8532d42b378d13df3a4fc9ab31d6683c0f790c391ecad85",
+      "previewBytes": 71612,
+      "thumbnailBytes": 7710
+    },
+    {
+      "member": "Rayre Icon.png",
+      "bytes": 22543,
+      "crc32": "eee2a20b",
+      "mode": 33206,
+      "id": "c1242350fbdbecd7",
+      "sourceSha256": "1510fc6b9b931b31f5f42891251f3464018c6229afa659f3b0d57ded112fc0b7",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "a4619e9bad046924207d02258c707837f22eee7aa08cd59116af2e1f91b58d54",
+      "thumbnailSha256": "ded1439587145eaddd3ff9260363e0a4744be7116839f9ccdcfc5389f6efb303",
+      "previewBytes": 6862,
+      "thumbnailBytes": 4980
+    },
+    {
+      "member": "Rayre Jini Egg.png",
+      "bytes": 43707,
+      "crc32": "367e8340",
+      "mode": 33206,
+      "id": "7a536a1e99459d14",
+      "sourceSha256": "0030350469168650961bbb085e27950543ac6156c96ae2cef0d17a956d31ead6",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "9d7cb5c018a4b7f92399505f874f799f7db8763d6708132a725dc98ea32e223c",
+      "thumbnailSha256": "d6948fea23bedcf7f11b03bffcf4d365447032e234c5e4da0776bc8b2542a7a8",
+      "previewBytes": 8658,
+      "thumbnailBytes": 4760
+    },
+    {
+      "member": "Rayre Jini Fruit.png",
+      "bytes": 57734,
+      "crc32": "69f3e8e1",
+      "mode": 33206,
+      "id": "112a13fdc2d48ec5",
+      "sourceSha256": "6fee03e35ec1e7a1178a6180ea9148442d8a88c1d4b9048c40da9f9c15d913bf",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "3311078279598a3ee97221b22a40e11e86f15a60a00438fc3fe887079bda5acf",
+      "thumbnailSha256": "728e1c5d25d1dcc087f3c67e8f0200b513e77b00249d27a4bfc6af85f16437fa",
+      "previewBytes": 11400,
+      "thumbnailBytes": 6148
+    }
+  ],
+  "skipped": []
+}

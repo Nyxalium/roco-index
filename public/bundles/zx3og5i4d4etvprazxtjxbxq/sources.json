@@ -1,0 +1,115 @@
+{
+  "familyId": "zx3og5i4d4etvprazxtjxbxq",
+  "familyTitle": "Thalune Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_89e75806_Thalune Evolution Line.zip",
+  "zipBytes": 596185,
+  "zipSha256": "9837c77ede60edd9bff241135723a18ee1eef7a697b616ca27687ced47114626",
+  "coverId": "75c4015a7a140716",
+  "files": [
+    {
+      "id": "75c4015a7a140716",
+      "filename": "Thalune Artwork.png",
+      "label": "Thalune",
+      "kind": "artwork",
+      "url": "/bundles/zx3og5i4d4etvprazxtjxbxq/75c4015a7a140716.webp",
+      "thumbnail": "/bundles/zx3og5i4d4etvprazxtjxbxq/75c4015a7a140716-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "5000e3f2b2915134",
+      "filename": "Thalune Icon.png",
+      "label": "Thalune",
+      "kind": "icon",
+      "url": "/bundles/zx3og5i4d4etvprazxtjxbxq/5000e3f2b2915134.webp",
+      "thumbnail": "/bundles/zx3og5i4d4etvprazxtjxbxq/5000e3f2b2915134-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "d7d9d6f8140b83a5",
+      "filename": "Thalune Jini Egg.png",
+      "label": "Thalune",
+      "kind": "egg",
+      "url": "/bundles/zx3og5i4d4etvprazxtjxbxq/d7d9d6f8140b83a5.webp",
+      "thumbnail": "/bundles/zx3og5i4d4etvprazxtjxbxq/d7d9d6f8140b83a5-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "644ff8268c32f513",
+      "filename": "Thalune Jini Fruit.png",
+      "label": "Thalune",
+      "kind": "fruit",
+      "url": "/bundles/zx3og5i4d4etvprazxtjxbxq/644ff8268c32f513.webp",
+      "thumbnail": "/bundles/zx3og5i4d4etvprazxtjxbxq/644ff8268c32f513-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Thalune Artwork.png",
+      "bytes": 472835,
+      "crc32": "1b0afdba",
+      "mode": 33206,
+      "id": "75c4015a7a140716",
+      "sourceSha256": "88d9e4dac4ec272848d48a5a338c9b8d70873a961971873dd59817e3afadefc0",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "8cafe295b456993f45846025aa6ad7841fae1ffae617e73074be440d6fbc7cb0",
+      "thumbnailSha256": "dedc694f2c2ee13c70c31c459fcd8f59ebabe0dd2ae1c3a5142ccdc3811e1479",
+      "previewBytes": 75286,
+      "thumbnailBytes": 7438
+    },
+    {
+      "member": "Thalune Icon.png",
+      "bytes": 31900,
+      "crc32": "d5dfa4fb",
+      "mode": 33206,
+      "id": "5000e3f2b2915134",
+      "sourceSha256": "6b380de1aa1f23310fbf5d51569573d47428d8d34ed1078bba34d549c6157a46",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "55d05a706247b74007ce061f043a4e1d6aad47775f45ad35c945a0bc71bad2e1",
+      "thumbnailSha256": "0d8a5cf5561a64712432805edd8c8156cd1f437788a1c3a8794a7a22aec4ae2f",
+      "previewBytes": 9044,
+      "thumbnailBytes": 5952
+    },
+    {
+      "member": "Thalune Jini Egg.png",
+      "bytes": 41358,
+      "crc32": "69c7d4eb",
+      "mode": 33206,
+      "id": "d7d9d6f8140b83a5",
+      "sourceSha256": "2d52ac28ee466cd32beea0f900e807c3a35305015ec5c7333960e7ffc1147ed4",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "859fe0a2b4984ffeddf4d073081d1403266638b6ac5d7b98e85fb0aaf167cb01",
+      "thumbnailSha256": "4ff4d12534d0e035b2560b692f905794cbeb3f4fd5936a92630a5aec9066ad99",
+      "previewBytes": 7972,
+      "thumbnailBytes": 4768
+    },
+    {
+      "member": "Thalune Jini Fruit.png",
+      "bytes": 54435,
+      "crc32": "1b5472a8",
+      "mode": 33206,
+      "id": "644ff8268c32f513",
+      "sourceSha256": "b33c04042afd1b73260a103bb99643d09f52dbf93d2a3410693ed0a966bf1c22",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "d49a4c8d860937cb226a8c1c7f1e7d4765afdb07e6ac4520e910e28ca99012be",
+      "thumbnailSha256": "9b0cc969326a51025a1fb2fa04bbf38607189c4465cfa01b312460368810fc12",
+      "previewBytes": 10800,
+      "thumbnailBytes": 5928
+    }
+  ],
+  "skipped": []
+}

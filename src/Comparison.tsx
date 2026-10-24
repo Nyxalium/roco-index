@@ -1,0 +1,12 @@
+import LocalizedText, { CreatureLabel } from './LocalizedText';
+import { ArrowUpRight } from 'lucide-react';
+import Artwork from './Artwork';
+import Modal from './Modal';
+import StatRadar from './StatRadar';
+import ElementBadge from './ElementBadge';
+import { catalogueNumber, creatureById, creatureImage, creatureName, statLabels } from './compendium';
+
+export default function Comparison({ ids, onClose, onOpen }: { ids: string[]; onClose: () => void; onOpen: (id: string) => void }) {
+  const selected = ids.map(id => creatureById.get(id)!).filter(Boolean);
+  return <Modal className="comparison-modal" labelledBy="comparison-title" onClose={onClose}><div className="comparison-inner"><span className="field-label">CN reference · base stats</span><h2 id="comparison-title">Creature comparison</h2><div className="comparison-visual"><StatRadar creatures={selected} /><div className="compare-creatures">{selected.map((creature, index) => <button key={creature.id} onClick={() => onOpen(creature.id)} style={{ '--series': ['#7260dc', '#e18b87', '#5f9bbb'][index] } as React.CSSProperties}><Artwork url={creatureImage(creature)} name={creatureName(creature)} /><span><small>{catalogueNumber(creature)}</small><strong><CreatureLabel creature={creature} /></strong>{creature.form && <small><LocalizedText text={creature.form} /></small>}</span><ArrowUpRight size={15} /></button>)}</div></div><div className="table-scroll"><table className="comparison-table"><thead><tr><th>Base stat</th>{selected.map(creature => <th key={creature.id}><CreatureLabel creature={creature} /></th>)}</tr></thead><tbody>{statLabels.map((label, i) => { const highest = Math.max(...selected.map(creature => creature.stats[i])); return <tr key={label}><th>{label}</th>{selected.map(creature => <td className={creature.stats[i] === highest ? 'highest' : ''} key={creature.id}>{creature.stats[i]}</td>)}</tr>; })}<tr><th>Total</th>{selected.map(creature => <td key={creature.id}><strong>{creature.total}</strong></td>)}</tr><tr><th>Elements</th>{selected.map(creature => <td key={creature.id}><div className="type-row">{creature.types.map(type => <ElementBadge key={type} type={type} compact />)}</div></td>)}</tr><tr><th>Trait</th>{selected.map(creature => <td key={creature.id}><LocalizedText text={creature.trait.name} /></td>)}</tr></tbody></table></div><p className="small-note">Base stats are reference values, not level-adjusted battle stats. Highest values are highlighted; this does not rank overall strength.</p></div></Modal>;
+}

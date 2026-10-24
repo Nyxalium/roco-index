@@ -1,0 +1,115 @@
+{
+  "familyId": "qrntdxfawd2zfnnk7sn56vah",
+  "familyTitle": "Orbicus Evolution Line",
+  "sourcePage": "https://rocokingdom.com/creator/images.html?lang=en",
+  "capturedAt": "2026-10-24",
+  "zipUrl": "https://linkage-cdn.vasdgame.com/media/nrcg/20261010_1a3fffe3_Orbicus Evolution Line.zip",
+  "zipBytes": 688663,
+  "zipSha256": "8c870ce3b5b5810e1662e18b74feea95a88886b2f752f52a5fb95154ed449ae7",
+  "coverId": "c87820f2a141a735",
+  "files": [
+    {
+      "id": "c87820f2a141a735",
+      "filename": "Orbicus Artwork.png",
+      "label": "Orbicus",
+      "kind": "artwork",
+      "url": "/bundles/qrntdxfawd2zfnnk7sn56vah/c87820f2a141a735.webp",
+      "thumbnail": "/bundles/qrntdxfawd2zfnnk7sn56vah/c87820f2a141a735-thumb.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "f46e70e875d94fdf",
+      "filename": "Orbicus Icon.png",
+      "label": "Orbicus",
+      "kind": "icon",
+      "url": "/bundles/qrntdxfawd2zfnnk7sn56vah/f46e70e875d94fdf.webp",
+      "thumbnail": "/bundles/qrntdxfawd2zfnnk7sn56vah/f46e70e875d94fdf-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "28827941442cbafe",
+      "filename": "Orbicus Jini Egg.png",
+      "label": "Orbicus",
+      "kind": "egg",
+      "url": "/bundles/qrntdxfawd2zfnnk7sn56vah/28827941442cbafe.webp",
+      "thumbnail": "/bundles/qrntdxfawd2zfnnk7sn56vah/28827941442cbafe-thumb.webp",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "b847b8d9c9950684",
+      "filename": "Orbicus Jini Fruit.png",
+      "label": "Orbicus",
+      "kind": "fruit",
+      "url": "/bundles/qrntdxfawd2zfnnk7sn56vah/b847b8d9c9950684.webp",
+      "thumbnail": "/bundles/qrntdxfawd2zfnnk7sn56vah/b847b8d9c9950684-thumb.webp",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "inventory": [
+    {
+      "member": "Orbicus Artwork.png",
+      "bytes": 570542,
+      "crc32": "4e23b952",
+      "mode": 33206,
+      "id": "c87820f2a141a735",
+      "sourceSha256": "69c1aa5152c6ee1262b43b3673809142401522cc5d4862032520f18eb6e62c76",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "ad6493ed1f2f8e1e88fd205c78d30f40c611fe230879d5cc36d7d65c29dd8548",
+      "thumbnailSha256": "da36722336d838826a5cc369f4e7e78acc559e20da966d604c592c530324a45c",
+      "previewBytes": 77960,
+      "thumbnailBytes": 8564
+    },
+    {
+      "member": "Orbicus Icon.png",
+      "bytes": 26964,
+      "crc32": "75bea494",
+      "mode": 33206,
+      "id": "f46e70e875d94fdf",
+      "sourceSha256": "5da5dd22581b8f5338047f9d97d272b7bd29b875ecdefaf0fa69738f683a5b3e",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "9bc3e7c470f8fc20713c2b669c016aa49d07373fc1bbcb165af524af40b50980",
+      "thumbnailSha256": "7d86bac36d43c669e88b489f1e245936fd94f0abb7af2a271d240db3ea60602d",
+      "previewBytes": 7006,
+      "thumbnailBytes": 4764
+    },
+    {
+      "member": "Orbicus Jini Egg.png",
+      "bytes": 40752,
+      "crc32": "eb4a295f",
+      "mode": 33206,
+      "id": "28827941442cbafe",
+      "sourceSha256": "32c91f6f2a7aae82e2bd71a47e164bd2f3672ae9107b9ff47fdd72e6aab9277d",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "43b50d9d1ab6f82932fd5ef41af405c6e3792821a4aae6eda0d927b922a1c6a6",
+      "thumbnailSha256": "e7c544df9b205b1f9cde90dfdd903776a432a83cb5f43d85a63314df85eb6101",
+      "previewBytes": 7980,
+      "thumbnailBytes": 4630
+    },
+    {
+      "member": "Orbicus Jini Fruit.png",
+      "bytes": 53836,
+      "crc32": "3136ed7a",
+      "mode": 33206,
+      "id": "b847b8d9c9950684",
+      "sourceSha256": "8e11e6b228ead71b5485d0e464dccd9d354a3aa6cfc75e5120cbe53c0bf1b5f7",
+      "format": ".png",
+      "frames": 1,
+      "alpha": true,
+      "previewSha256": "b3fc1d756711246b0e6263cb485793aa41fcc6ac0b92283a30960538a2c87ba0",
+      "thumbnailSha256": "ab4e459c1a7469c86742e2aef340129d083b94ae3bba12d839f1df29d57c18fd",
+      "previewBytes": 10990,
+      "thumbnailBytes": 5902
+    }
+  ],
+  "skipped": []
+}

@@ -1,0 +1,14 @@
+{
+  "region": "CN",
+  "snapshotDate": "2026-10-24",
+  "gameVersion": null,
+  "url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/",
+  "dataUrl": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/d.json",
+  "eggUrl": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/egg.html",
+  "sha256": "dbf3dff82939bc7c6d393bf096d3b3cb86673d3acc063f47312d6a17d4fe5fff",
+  "eggSha256": "94615bef0429877c729cf54ab297a16ee015d0cf6f4c04cef7c0811b3bf145bb",
+  "records": 621,
+  "catalogueNumbers": 466,
+  "eggRecords": 573,
+  "licence": "Official public website content; third-party support/redistribution terms not established."
+}
