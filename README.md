@@ -2,6 +2,8 @@
 
 An independent Roco Kingdom fan companion built with Vite, React and TypeScript.
 
+[Open Roco Index](https://roco.nyxalium.dev)
+
 - Search creatures, skills, traits and recorded locations.
 - Plan teams, compare stats and track your collection.
 - Browse character artwork, desktop/mobile wallpapers, music and official news.
@@ -16,6 +18,10 @@ npm run dev
 ```
 
 `npm run build` checks TypeScript and builds the app. `npm run preview` serves that build locally. The prepared data and media are included; no database, account or API key is required.
+
+## Hosting
+
+The app is served as static assets on Cloudflare Workers at `roco.nyxalium.dev`. After authenticating Wrangler with the intended Cloudflare account, run `npm run deploy` to build and publish. The domain and asset directory are configured in `wrangler.jsonc`; no server code or paid bindings are used.
 
 ## Contributions
 
